@@ -1,0 +1,47 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: yes
+  html_document:
+    df_print: paged
+breaks: true
+urlcolor: blue
+bibliography: references.json
+csl: the-geological-society-of-america.csl
+---
+\begin{flushleft}
+Senior Research Outline, Figures, and References\\
+Jacob Hall\\
+Intro to Geologic Research\\
+Professor Rowan Lockwood\\
+\today
+\end{flushleft}
+
+# Introduction
+Radon is a naturally-occuring gas...
+
+## Research Question and/or Hypothesis
+Radon can be a real danger, and is something the general public should learn more about. How can radon be communicated to the public most effectively?
+
+# Geologic Setting or Background
+* What is radon?
+	+ An explanation of what radon is / how it forms
+	+ An explanation of how radon can cause cancer
+* Overview of prior radon research in Williamsburg
+	+ Williamsburg has been described as low-risk for radon, which is generally true, but there are areas of high risk 
+	+ Discovery of radon in the Yorktown Formation
+	+ Mapping of risk levels in Williamsburg area
+
+# Materials and Methods
+2-4 paragraphs
+
+# References Cites
+
+<div id="refs"></div>
+
+# Budget
+(table outlining expected project costs)
+
+# Timeline
+(list of dates to finish (if applicable): field work, sample collection, lab work, data collection, data analyses)
