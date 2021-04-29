@@ -28,15 +28,40 @@ Radon can be a real danger, and is something the general public should learn mor
 * What is radon?
 	+ An explanation of what radon is / how it forms
 	+ An explanation of how radon can cause cancer
+
+![Graph from EPA report illustrating risk of radon-related deaths compared to other common causes in the US]("Figures/EPA radon graph.png")
+
+![Decay chain of uranium, from paper (CITE!)]("Figures/decay chain of uranium.png")
+
 * Overview of prior radon research in Williamsburg
+	
 	+ Williamsburg has been described as low-risk for radon, which is generally true, but there are areas of high risk 
-	+ Discovery of radon in the Yorktown Formation
+
+Research on radon at William and Mary started around 1989 when Jennifer M. Cooper wrote her thesis investigating the Yorktown Formation as a potential source of radon in the Williamsburg area.
+
+her big discovery was that a house had 30 picocuries per Liter, and even more underneath!
+
+[@cooper89]
+
+The second person to work on this was Tracy Whitesil
+
+
+Borne (94?) -- summarized earlier work, compared yorktown formation to different formation
+
+
+In 2020, Dorian Miller created a "risk map" of 
 	+ Mapping of risk levels in Williamsburg area
+
+![Radon risk assessment map made by Dorian Miller (@berquist_etal20)]("Figures/radon risk map.png")
+[@berquist_etal20]
+
+In 2021, Zoey Mondshine worked to confirm the risk map, i
+
 
 # Materials and Methods
 2-4 paragraphs
 
-# References Cites
+# References
 
 <div id="refs"></div>
 
