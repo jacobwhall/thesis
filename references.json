@@ -1,288 +1,6 @@
 [
 	{
-		"id": "hurstUseVirtualField1998",
-		"type": "article-journal",
-		"abstract": "We designed a series of case studies for Introductory Geology Laboratory courses using computer visualization techniques integrated with traditional laboratory materials. These consist of a comprehensive case study which requires three two-hour long laboratory periods to complete, and several shorter case studies requiring one or two, two-hour laboratory periods. Currently we have prototypes of the Yellowstone National Park, Hawaii volcanoes and the Mid-Atlantic Ridge case studies. The Yellowstone prototype can be used to learn about a wide variety of rocks and minerals, about geothermal activity and hydrology, about volcanic hazards and the hot-spot theory of plate tectonics. The Hawaiian exercise goes into more depth about volcanoes, volcanic rocks and their relationship to plate movements. The Mid-Atlantic Ridge project focuses on formation of new ocean crust and mineral-rich hydrothermal deposits at spreading centers. With new improvements in visualization technology that are making their way to personal computers, we are now closer to the ideal of a “virtual” field trip. We are currently making scenes of field areas in Hawaii and Yellowstone which allow the student to pan around the area and zoom in on interesting objects. Specific rocks in the scene will be able to be “picked up” and studied in three dimensions. This technology improves the ability of the computer to present a realistic simulation of the field area and allows the student to have more control over the presentation. This advanced interactive technology is intuitive to control, relatively cheap and easy to add to existing computer programs and documents.",
-		"container-title": "Computers & Geosciences",
-		"DOI": "10.1016/S0098-3004(98)00043-0",
-		"ISSN": "0098-3004",
-		"issue": "7",
-		"journalAbbreviation": "Computers & Geosciences",
-		"language": "en",
-		"page": "653-658",
-		"source": "ScienceDirect",
-		"title": "Use of “virtual” field trips in teaching introductory geology",
-		"URL": "https://www.sciencedirect.com/science/article/pii/S0098300498000430",
-		"volume": "24",
-		"author": [
-			{
-				"family": "Hurst",
-				"given": "Stephen D"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1998",
-					8,
-					1
-				]
-			]
-		}
-	},
-	{
-		"id": "robbCallIncreasedPublic2013",
-		"type": "article-journal",
-		"abstract": "Rising fees are forcing higher education institutions to think critically about what students are offered for their money. In geology courses there appears to be a lack of guidance for alternative careers in academia or industry, and even a lack of education about wider social, political and economic impacts of the discipline. It is possible to detect a lack of high-impact geoscience among the popular science communication communities, such as online multidisciplinary blogging platforms. In order to enhance the student experience and the impact of geoscience on the wider public, universities need to look inwards at what they can do to help inspire and educate students to have broader career horizons and bigger public impacts through their research.",
-		"container-title": "Geology Today",
-		"DOI": "https://doi.org/10.1111/gto.12003",
-		"ISSN": "1365-2451",
-		"issue": "2",
-		"language": "en",
-		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/gto.12003",
-		"page": "63-67",
-		"source": "Wiley Online Library",
-		"title": "A call for increased public engagement in geology higher education",
-		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gto.12003",
-		"volume": "29",
-		"author": [
-			{
-				"family": "Robb",
-				"given": "Jane"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
-		}
-	},
-	{
-		"id": "johnsonConceptSketchesUsing2005",
-		"type": "article-journal",
-		"container-title": "Journal of Geoscience Education",
-		"DOI": "10.5408/1089-9995-53.1.85",
-		"ISSN": "1089-9995, 2158-1428",
-		"issue": "1",
-		"journalAbbreviation": "Journal of Geoscience Education",
-		"language": "en",
-		"page": "85-95",
-		"source": "DOI.org (Crossref)",
-		"title": "Concept Sketches – Using Student- and Instructor-generated, Annotated Sketches for Learning, Teaching, and Assessment in Geology Courses",
-		"URL": "https://www.tandfonline.com/doi/full/10.5408/1089-9995-53.1.85",
-		"volume": "53",
-		"author": [
-			{
-				"family": "Johnson",
-				"given": "Julia K."
-			},
-			{
-				"family": "Reynolds",
-				"given": "Stephen J."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2005",
-					2
-				]
-			]
-		}
-	},
-	{
-		"id": "woolfittEffectiveUseVideo",
-		"type": "article-journal",
-		"language": "en",
-		"page": "49",
-		"source": "Zotero",
-		"title": "The effective use of video in higher education",
-		"author": [
-			{
-				"family": "Woolfitt",
-				"given": "Zac"
-			}
-		]
-	},
-	{
-		"id": "noetelVideoImprovesLearning2021",
-		"type": "article-journal",
-		"container-title": "Review of Educational Research",
-		"DOI": "10.3102/0034654321990713",
-		"ISSN": "0034-6543",
-		"journalAbbreviation": "Review of Educational Research",
-		"language": "en",
-		"note": "publisher: American Educational Research Association",
-		"page": "0034654321990713",
-		"source": "SAGE Journals",
-		"title": "Video Improves Learning in Higher Education: A Systematic Review",
-		"title-short": "Video Improves Learning in Higher Education",
-		"URL": "https://doi.org/10.3102/0034654321990713",
-		"author": [
-			{
-				"family": "Noetel",
-				"given": "Michael"
-			},
-			{
-				"family": "Griffith",
-				"given": "Shantell"
-			},
-			{
-				"family": "Delaney",
-				"given": "Oscar"
-			},
-			{
-				"family": "Sanders",
-				"given": "Taren"
-			},
-			{
-				"family": "Parker",
-				"given": "Philip"
-			},
-			{
-				"family": "Pozo Cruz",
-				"given": "Borja",
-				"non-dropping-particle": "del"
-			},
-			{
-				"family": "Lonsdale",
-				"given": "Chris"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					16
-				]
-			]
-		}
-	},
-	{
-		"id": "minerLearningVideoHigher2018",
-		"type": "article-journal",
-		"abstract": "The purpose of this study was to compare instructors and students perceptions regarding the use of video during instruction. Background research exploring student opinions regarding their \"perceived gains\" in learning may identify learning behaviors that could be exploited by those providing instruction to increase student learning. The intention is to provide instructional designers and college professors with valuable information regarding the use of video for presenting knowledge, explaining cognitive processes, or demonstrating psychomotor skills in a higher education setting. This study used a survey design to explore perceptional differences between professors and students regarding the use and/or effectiveness of video instruction. Results supported multimedia video as a viable teaching resource to communicate course content. This study provided the impetus for further research into actual (versus self-reported) student review of video material and any positive effects on student learning outcomes based on their perceptions of the use of multimedia video presentations.",
-		"container-title": "Journal of University Teaching and Learning Practice",
-		"ISSN": "1449-9789",
-		"issue": "2",
-		"language": "en",
-		"note": "publisher: University of Wollongong",
-		"source": "ERIC",
-		"title": "Learning via Video in Higher Education: An Exploration of Instructor and Student Perceptions",
-		"title-short": "Learning via Video in Higher Education",
-		"URL": "https://eric.ed.gov/?id=EJ1182696",
-		"volume": "15",
-		"author": [
-			{
-				"family": "Miner",
-				"given": "Steven"
-			},
-			{
-				"family": "Stefaniak",
-				"given": "Jill E."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
-		}
-	},
-	{
-		"id": "sugimotoScholarsSoapBoxes2013",
-		"type": "article-journal",
-		"abstract": "Online videos provide a novel, and often interactive, platform for the popularization of science. One successful collection is hosted on the TED (Technology, Entertainment, Design) website. This study uses a range of bibliometric (citation) and webometric (usage and bookmarking) indicators to examine TED videos in order to provide insights into the type and scope of their impact. The results suggest that TED Talks impact primarily the public sphere, with about three-quarters of a billion total views, rather than the academic realm. Differences were found among broad disciplinary areas, with art and design videos having generally lower levels of impact but science and technology videos generating otherwise average impact for TED. Many of the metrics were only loosely related, but there was a general consensus about the most popular videos as measured through views or comments on YouTube and the TED site. Moreover, most videos were found in at least one online syllabus and videos in online syllabi tended to be more viewed, discussed, and blogged. Less-liked videos generated more discussion, although this may be because they are more controversial. Science and technology videos presented by academics were more liked than those by nonacademics, showing that academics are not disadvantaged in this new media environment.",
-		"container-title": "Journal of the American Society for Information Science and Technology",
-		"DOI": "https://doi.org/10.1002/asi.22764",
-		"ISSN": "1532-2890",
-		"issue": "4",
-		"language": "en",
-		"note": "_eprint: https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.22764",
-		"page": "663-674",
-		"source": "Wiley Online Library",
-		"title": "Scholars on soap boxes: Science communication and dissemination in TED videos",
-		"title-short": "Scholars on soap boxes",
-		"URL": "https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.22764",
-		"volume": "64",
-		"author": [
-			{
-				"family": "Sugimoto",
-				"given": "Cassidy R."
-			},
-			{
-				"family": "Thelwall",
-				"given": "Mike"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
-		}
-	},
-	{
-		"id": "finklerPowerStorytellingVideo2019",
+		"id": "finkler_leon19",
 		"type": "article-journal",
 		"container-title": "Journal of Science Communication",
 		"DOI": "10.22323/2.18050202",
@@ -327,505 +45,36 @@
 		}
 	},
 	{
-		"id": "nisbetWhatNextScience2009",
+		"id": "paris",
 		"type": "article-journal",
-		"container-title": "American Journal of Botany",
-		"DOI": "https://doi.org/10.3732/ajb.0900041",
-		"ISSN": "1537-2197",
-		"issue": "10",
 		"language": "en",
-		"note": "_eprint: https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.3732/ajb.0900041",
-		"page": "1767-1778",
-		"source": "Wiley Online Library",
-		"title": "What's next for science communication? Promising directions and lingering distractions",
-		"title-short": "What's next for science communication?",
-		"URL": "https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.3732/ajb.0900041",
-		"volume": "96",
+		"page": "24",
+		"source": "Zotero",
+		"title": "Radon in Virginia Real Estate Transactions",
 		"author": [
 			{
-				"family": "Nisbet",
-				"given": "Matthew C."
-			},
-			{
-				"family": "Scheufele",
-				"given": "Dietram A."
+				"family": "Paris",
+				"given": "Ryan (VDH)"
 			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2009"
-				]
-			]
-		}
+		]
 	},
 	{
-		"id": "ponzioLearningScienceCommunication2018",
+		"id": "hipps",
 		"type": "article-journal",
-		"abstract": "Doctoral students in science disciplines spend countless hours learning how to conduct cutting-edge research but very little time learning to communicate the nature and significance of their science to people outside their field. To narrow this disparity, we created an unusual course titled Communicating Science for doctoral science trainees at Rutgers University. Our goal was to help students develop an advanced ability to communicate their research clearly and accurately and to emphasize its value and significance to diverse audiences. Course design included classroom instruction supplemented with improvisation, video recordings, and ample opportunity for students to practice and receive immediate, constructive feedback in a supportive environment. A multidisciplinary faculty with expertise in science, education, communication, and theater arts taught this course. PhD students came from diverse scientific disciplines, ranging from biology and chemistry to civil engineering. Students also completed a capstone project in which they worked with a professional in the academic or private sector to explore a possible career aspiration. Assessment was in the form of feedback on students’ oral and poster presentations, and written abstracts about their research. Student evaluations and comments about course format and content were mostly positive and also provided input for ways to improve the course. We discovered that the diversity of scientific backgrounds among our students enhanced their ability to learn how to communicate their science to others outside their disciplines. We are leveraging the success of our initial course offering to reach other student and faculty groups at Rutgers.",
-		"container-title": "Journal of Microbiology & Biology Education",
-		"DOI": "10.1128/jmbe.v19i1.1433",
-		"ISSN": "1935-7877",
-		"issue": "1",
-		"journalAbbreviation": "J Microbiol Biol Educ",
-		"note": "PMID: 29904514\nPMCID: PMC5969400",
-		"source": "PubMed Central",
-		"title": "Learning Science Communication Skills Using Improvisation, Video Recordings, and Practice, Practice, Practice",
-		"URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969400/",
-		"volume": "19",
-		"author": [
-			{
-				"family": "Ponzio",
-				"given": "Nicholas M."
-			},
-			{
-				"family": "Alder",
-				"given": "Janet"
-			},
-			{
-				"family": "Nucci",
-				"given": "Mary"
-			},
-			{
-				"family": "Dannenfelser",
-				"given": "David"
-			},
-			{
-				"family": "Hilton",
-				"given": "Holly"
-			},
-			{
-				"family": "Linardopoulos",
-				"given": "Nikolaos"
-			},
-			{
-				"family": "Lutz",
-				"given": "Carol"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					3,
-					30
-				]
-			]
-		}
-	},
-	{
-		"id": "putortiCommunicatingScienceEffectively2020",
-		"type": "article-journal",
-		"abstract": "In two experiments (N = 160) we predicted and found that an optimised video science communication was more effective than either a press release science communication (Experiment 1) and a non-optimised video science communication (Experiment 2) in promoting (a) a better comprehension of the communication, (b) a higher perceived pleasantness, and (c) a stronger manifest interest in learning more about its findings, as reflected in participants’ explicit requests to receive supplemental material on the communicated and analogous findings. The results were consistent across experiments. They were also not influenced by the content type of the communication. Implications for communication professionals and future research in the field of media, social influence, education, and applied social psychology are discussed.",
-		"container-title": "Applied Psychology",
-		"DOI": "https://doi.org/10.1111/apps.12193",
-		"ISSN": "1464-0597",
-		"issue": "3",
+		"abstract": "Methods..............................................................................................................................20\nResults................................................................................................................................24 Discussion..........................................................................................................................25 Future Work.......................................................................................................................32\nConclusions.......................................................................................................................35 Acknowledgements...................................................................................................................36 References Cited................................................................................................................36 Appendix A: Data Tables...................................................................................................41",
 		"language": "en",
-		"note": "_eprint: https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/apps.12193",
-		"page": "1072-1091",
-		"source": "Wiley Online Library",
-		"title": "Communicating Science Effectively: When an Optimised Video Communication Enhances Comprehension, Pleasantness, and People’s Interest in Knowing More About Scientific Findings",
-		"title-short": "Communicating Science Effectively",
-		"URL": "https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/apps.12193",
-		"volume": "69",
+		"page": "73",
+		"source": "Zotero",
+		"title": "High Localized Uranium and 226Ra in the Mid-Atlantic Coastal Plain: Implications for Radon Hazards",
 		"author": [
 			{
-				"family": "Putortì",
-				"given": "Eufemia S."
-			},
-			{
-				"family": "Sciara",
-				"given": "Simona"
-			},
-			{
-				"family": "Larocca",
-				"given": "Norman U."
-			},
-			{
-				"family": "Crippa",
-				"given": "Massimo P."
-			},
-			{
-				"family": "Pantaleo",
-				"given": "Giuseppe"
+				"family": "Hipps",
+				"given": "Alton"
 			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2020"
-				]
-			]
-		}
+		]
 	},
 	{
-		"id": "falkInvestigatingPublicScience2007",
-		"type": "article-journal",
-		"abstract": "Historically, most of the focus of science education has been on pre-college and college level schooling. Although some of the public's interest and knowledge about science is unquestionably shaped by compulsory schooling, given that the average adult spends only a fraction of their life participating in some kind of formal schooling, we argue that the contribution of school-based science learning to the long-term public understanding of science is limited, particularly for the majority of Americans who do not go on to post-secondary schooling. This article shows that the majority of the public constructs much of its understanding of science over the course of their lives, gathering information from many places and contexts, and for a diversity of reasons. A random telephone survey of Los Angeles, California residents found that nearly half (43 percent) of the public's self-reported science understanding derives from leisure time, free-choice learning; science understanding was primarily acquired for reasons related to personal interest, need and/or curiosity. The conclusion drawn from this preliminary investigation is that future efforts to understand and support the public's understanding of science will require approaches that take into account individual differences and the unique personal and context-specific nature of knowledge; findings also support the value of asset-based approaches to education which build from strengths rather than dwelling upon deficits.",
-		"container-title": "Public Understanding of Science",
-		"DOI": "10.1177/0963662506064240",
-		"ISSN": "0963-6625",
-		"issue": "4",
-		"journalAbbreviation": "Public Underst Sci",
-		"language": "en",
-		"note": "publisher: SAGE Publications Ltd",
-		"page": "455-469",
-		"source": "SAGE Journals",
-		"title": "Investigating public science interest and understanding: evidence for the importance of free-choice learning",
-		"title-short": "Investigating public science interest and understanding",
-		"URL": "https://doi.org/10.1177/0963662506064240",
-		"volume": "16",
-		"author": [
-			{
-				"family": "Falk",
-				"given": "John H."
-			},
-			{
-				"family": "Storksdieck",
-				"given": "Martin"
-			},
-			{
-				"family": "Dierking",
-				"given": "Lynn D."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2007",
-					10,
-					1
-				]
-			]
-		}
-	},
-	{
-		"id": "koushaRoleOnlineVideos2012",
-		"type": "article-journal",
-		"abstract": "Although there is some evidence that online videos are increasingly used by academics for informal scholarly communication and teaching, the extent to which they are used in published academic research is unknown. This article explores the extent to which YouTube videos are cited in academic publications and whether there are significant broad disciplinary differences in this practice. To investigate, we extracted the URL citations to YouTube videos from academic publications indexed by Scopus. A total of 1,808 Scopus publications cited at least one YouTube video, and there was a steady upward growth in citing online videos within scholarly publications from 2006 to 2011, with YouTube citations being most common within arts and humanities (0.3%) and the social sciences (0.2%). A content analysis of 551 YouTube videos cited by research articles indicated that in science (78%) and in medicine and health sciences (77%), over three fourths of the cited videos had either direct scientific (e.g., laboratory experiments) or scientific-related contents (e.g., academic lectures or education) whereas in the arts and humanities, about 80% of the YouTube videos had art, culture, or history themes, and in the social sciences, about 63% of the videos were related to news, politics, advertisements, and documentaries. This shows both the disciplinary differences and the wide variety of innovative research communication uses found for videos within the different subject areas.",
-		"container-title": "Journal of the American Society for Information Science and Technology",
-		"DOI": "https://doi.org/10.1002/asi.22717",
-		"ISSN": "1532-2890",
-		"issue": "9",
-		"language": "en",
-		"note": "_eprint: https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.22717",
-		"page": "1710-1727",
-		"source": "Wiley Online Library",
-		"title": "The role of online videos in research communication: A content analysis of YouTube videos cited in academic publications",
-		"title-short": "The role of online videos in research communication",
-		"URL": "https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.22717",
-		"volume": "63",
-		"author": [
-			{
-				"family": "Kousha",
-				"given": "Kayvan"
-			},
-			{
-				"family": "Thelwall",
-				"given": "Mike"
-			},
-			{
-				"family": "Abdoli",
-				"given": "Mahshid"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
-		}
-	},
-	{
-		"id": "ballBehaviourRadonGeological1991",
-		"type": "article-journal",
-		"abstract": "Skip to Next Section\nA review of the behaviour of radon in the geological environment is presented. The general geochemistry of the element is described and the factors controlling its emanation from minerals and rocks and into the disperse phases itemized. A brief summary of analytical procedures for the analysis of the radon isotopes in waters and soil gases is given. The emanation of radon depends upon the source term uranium concentration, the nature of the host mineralogy, the permeability of the host rock and soil and the characteristics of the transporting medium. Weather can have a profound effect upon the concentration of radon in soil gas but often the variation due to the geological substrate is greater. Radon is not a problem unless it collects in buildings and underground structures. Some guidelines are given for identifying areas of high radon emanation based upon existing data sets.\nSkip to Previous Section\nA review of the behaviour of radon in the geological environment is presented. The general geochemistry of the element is described and the factors controlling its emanation from minerals and rocks and into the disperse phases itemized. A brief summary of analytical procedures for the analysis of the radon isotopes in waters and soil gases is given. The emanation of radon depends upon the source term uranium concentration, the nature of the host mineralogy, the permeability of the host rock and soil and the characteristics of the transporting medium. Weather can have a profound effect upon the concentration of radon in soil gas but often the variation due to the geological substrate is greater. Radon is not a problem unless it collects in buildings and underground structures. Some guidelines are given for identifying areas of high radon emanation based upon existing data sets.",
-		"container-title": "Quarterly Journal of Engineering Geology and Hydrogeology",
-		"DOI": "10.1144/GSL.QJEG.1991.024.02.01",
-		"ISSN": "1470-9236, 2041-4803",
-		"issue": "2",
-		"language": "en",
-		"note": "publisher: Geological Society of London\nsection: Article",
-		"page": "169-182",
-		"source": "qjegh.lyellcollection.org",
-		"title": "Behaviour of radon in the geological environment: a review",
-		"title-short": "Behaviour of radon in the geological environment",
-		"URL": "https://qjegh.lyellcollection.org/content/24/2/169",
-		"volume": "24",
-		"author": [
-			{
-				"family": "Ball",
-				"given": "T. K."
-			},
-			{
-				"family": "Cameron",
-				"given": "D. G."
-			},
-			{
-				"family": "Colman",
-				"given": "T. B."
-			},
-			{
-				"family": "Roberts",
-				"given": "P. D."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1991",
-					5,
-					1
-				]
-			]
-		}
-	},
-	{
-		"id": "robertsonCellularMolecularCarcinogenic2013",
-		"type": "article-journal",
-		"container-title": "International Journal of Molecular Sciences",
-		"DOI": "10.3390/ijms140714024",
-		"issue": "7",
-		"language": "en",
-		"note": "number: 7\npublisher: Multidisciplinary Digital Publishing Institute",
-		"page": "14024-14063",
-		"source": "www.mdpi.com",
-		"title": "The Cellular and Molecular Carcinogenic Effects of Radon Exposure: A Review",
-		"title-short": "The Cellular and Molecular Carcinogenic Effects of Radon Exposure",
-		"URL": "https://www.mdpi.com/1422-0067/14/7/14024",
-		"volume": "14",
-		"author": [
-			{
-				"family": "Robertson",
-				"given": "Aaron"
-			},
-			{
-				"family": "Allen",
-				"given": "James"
-			},
-			{
-				"family": "Laney",
-				"given": "Robin"
-			},
-			{
-				"family": "Curnow",
-				"given": "Alison"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					22
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2013",
-					7
-				]
-			]
-		}
-	},
-	{
-		"id": "al-zoughoolHealthEffectsRadon2009a",
-		"type": "article-journal",
-		"container-title": "International Journal of Radiation Biology",
-		"DOI": "10.1080/09553000802635054",
-		"ISSN": "0955-3002, 1362-3095",
-		"issue": "1",
-		"journalAbbreviation": "International Journal of Radiation Biology",
-		"language": "en",
-		"page": "57-69",
-		"source": "DOI.org (Crossref)",
-		"title": "Health effects of radon: A review of the literature",
-		"title-short": "Health effects of radon",
-		"URL": "http://www.tandfonline.com/doi/full/10.1080/09553000802635054",
-		"volume": "85",
-		"author": [
-			{
-				"family": "Al-Zoughool",
-				"given": "Mustafa"
-			},
-			{
-				"family": "Krewski",
-				"given": "Daniel"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					24
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2009",
-					1
-				]
-			]
-		}
-	},
-	{
-		"id": "bodanskyOverviewIndoorRadon1987",
-		"type": "article-journal",
-		"container-title": "Indoor radon and its hazards",
-		"language": "en",
-		"source": "inis.iaea.org",
-		"title": "Overview of the indoor radon problem",
-		"URL": "http://inis.iaea.org/Search/search.aspx?orig_q=RN:20044590",
-		"author": [
-			{
-				"family": "Bodansky",
-				"given": "D."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					24
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1987"
-				]
-			]
-		}
-	},
-	{
-		"id": "INISRepositorySearch",
-		"type": "webpage",
-		"title": "INIS Repository Search - Single Result",
-		"URL": "https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&RN=20044590",
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					24
-				]
-			]
-		}
-	},
-	{
-		"id": "kennedyRelationshipRadonKnowledge1991",
-		"type": "article-journal",
-		"abstract": "Understanding similarities between health-related and radon-related knowledge, attitudes, and behaviors may suggest application of effective strategies of radon-related education in targeted populations. A mail survey was returned by 300 randomly selected homeowners in a community at risk for high home radon concentrations (50% response). While 64% were concerned, only 7% tested their homes. The expected association between radon knowledge, radon concern, and information-seeking was identified. In addition, those who tested their homes had greater knowledge and did more information seeking. Health values and radon concern were only weakly related. Environmental concern explained the greatest variance in radon concern (10%). Internal health locus of controls were more likely to have high radon concern. Of the preventive health behaviors, not smoking and seat belt use were the best predictors of variance in radon concern (5%). Segmenting the population is suggested for best educational outcome. Relating information to environmental issues may be helpful. Health-conscious people may need awareness of risks. Issues of self-control and radon testing and reduction may be helpful for some. Synergy between smoke and radon, compounded by smokers lack of concern suggests targeting smokers for education efforts.",
-		"container-title": "Health Education Quarterly",
-		"DOI": "10.1177/109019819101800305",
-		"ISSN": "0195-8402",
-		"issue": "3",
-		"journalAbbreviation": "Health Education Quarterly",
-		"language": "en",
-		"note": "publisher: SAGE Publications Inc",
-		"page": "319-329",
-		"source": "SAGE Journals",
-		"title": "The Relationship between Radon Knowledge, Concern and Behavior, and Health Values, Health Locus of Control and Preventive Health Behaviors",
-		"URL": "https://doi.org/10.1177/109019819101800305",
-		"volume": "18",
-		"author": [
-			{
-				"family": "Kennedy",
-				"given": "Cassondra Jeanne"
-			},
-			{
-				"family": "Probart",
-				"given": "Claudia K."
-			},
-			{
-				"family": "Dorman",
-				"given": "Steve M."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					2,
-					24
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1991",
-					10,
-					1
-				]
-			]
-		}
-	},
-	{
-		"id": "berquist_etal20",
+		"id": "miller_etal20",
 		"type": "map",
 		"abstract": "Radon is an odorless, tasteless radioactive gas that can cause lung cancer and other serious health effects. Average Radon levels in some Williamsburg area homes have been found to exceed EPA safe limits of 4 picocuries per liter of air (4 pCi/l). Alpha Energy Laboratories makes radon test kits and compiles results from radon testing by zip codes. From 2001 through 2020, 15% of homes tested in 23185 are above 4pCi/l and 39% in zip code 23188 are above 4 pCi/l.\n\nResearch done by the William & Mary Department of Geology suggests a local source for radon lies within the sediments of the Yorktown Formation, which is prevalent in Williamsburg. Geologic maps show where the Yorktown Formation sediments may be found.",
 		"event-place": "Williamsburg, Virginia",
@@ -835,16 +84,16 @@
 		"URL": "https://storymaps.arcgis.com/stories/10f6d3d7c0014a1087fe3ef14f306520",
 		"author": [
 			{
+				"family": "Miller",
+				"given": "Dorian"
+			},
+			{
 				"family": "Berquist",
 				"given": "Rick"
 			},
 			{
 				"family": "Kaste",
 				"given": "Jim"
-			},
-			{
-				"family": "Miller",
-				"given": "Dorian"
 			}
 		],
 		"accessed": {
@@ -862,6 +111,376 @@
 					"2020",
 					10,
 					16
+				]
+			]
+		}
+	},
+	{
+		"id": "cooper89",
+		"type": "thesis",
+		"abstract": "The presence of radioactive fossils and high soil permeability of certain locations with the Coastal Plain of Virginia, particularly in the Yorktown Formation, provide the necessary conditions for radon gas to be emitted. Radon gas concentration prediction and detection methods were tested in Croaker, Virginia. An attempt was made to predict radon concentration levels by conducting a survey of radioactivity. When concentrations of radon gas were determined and compared to the radioactivity survey results, little correlation was found. The radon test was conducted in the Yorktown Formation and the formations directly above and below it. The results of the test indicated that much higher concentrations of radon are emitted from the Yorktown Formation than from its surrounding formations. A source of radon is suspected to exist in the middle of the Yorktown Formation, as well as at the formation contacts. The exact nature of the source, however, is yet unknown.",
+		"language": "English",
+		"number-of-pages": "31",
+		"publisher": "William & Mary",
+		"title": "A Study of the Relationships Between Radon Gas and the Geology of the Coastal Plain of Virginia",
+		"author": [
+			{
+				"family": "Cooper",
+				"given": "Jennifer"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "khandelwal_singh78",
+		"type": "article-journal",
+		"container-title": "Health Physics",
+		"ISSN": "0017-9078",
+		"issue": "2",
+		"journalAbbreviation": "Health Phys",
+		"language": "eng",
+		"note": "PMID: 701043",
+		"page": "411-413",
+		"source": "PubMed",
+		"title": "Radioactivity of whale vertebra fossils in the Chesapeake Bay area",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Khandelwal",
+				"given": "G. S."
+			},
+			{
+				"family": "Singh",
+				"given": "J. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "user:tosaka14",
+		"type": "graphic",
+		"archive": "File:Decay chain(4n+2, Uranium series).PNG",
+		"source": "Wikimedia Commons",
+		"title": "Uranium-238 decay chain diagram",
+		"title-short": "English",
+		"URL": "https://commons.wikimedia.org/wiki/File:Decay_chain(4n%2B2,_Uranium_series).svg",
+		"author": [
+			{
+				"literal": "User:Tosaka"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "whitesell90",
+		"type": "thesis",
+		"abstract": "Radon is a radioactive gas created in the decay chain of uranium-238. In the Coastal Plain of Virginia, this gas possibly may be a health hazard when houses are built upon the Yorktown Formation. Two major areas of study plus an additional house-site were tested for radon emission resulting in a total of twenty radon wells. Ten detector sites were located at Chippokes Plantation State Park in Surry, Virginia; eight detector sites were located at Matoaka Woods in Williamsburg, Virginia; and two detector sites were situated at a house near York River State Park, Croaker, Virginia. During the week of January 11 to 18, 1990, the Yorktown, Bacons Castle, Windsor, and Shirley formations were monitored for radon using diffusion barrier charcoal cannister radon traps made by Key Technology, Incorporated. Radioactivity was measured with a GPS scintillometer/spectrometer at each of the sites to determine what element caused the radioactivity and the amount of radioactivity present.\n\nThis study verified that radon occuring in the Yorktown Formation was regional and high enough to advise testing in basements of homes built within it. Marine mammal bones probably contributed to this problem. Although the highest emission values were produced from sands, sands of similar lithology from other locations were less productive. Furthermore, clay-rich fossiliferous sediments also produced fairly high values. This suggested that grain size may not always be a good predictor of high radon emission. The average radon concentrations in Windsor, Bacons Castle, and Shirley sediments were less than the average radon concentrations in the Yorktown sediments. Radioactivity almost always peaked in the Yorktown Formation; however, uranium measurements did not always correspond to the total background counts. High uranium counts taken 1.5 meters below the elevation of the radon test well correlated reasonably well with high radon emissions.",
+		"language": "English",
+		"number-of-pages": "63",
+		"publisher": "William & Mary",
+		"title": "The Correlation Between Geologic Formations and Radon Emission in Surry and Williamsburg, Virginia",
+		"author": [
+			{
+				"family": "Whitesell",
+				"given": "Tracy Elizabeth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "usepa14",
+		"type": "webpage",
+		"abstract": "Exposure to Radon can cause lung cancer in both non-smokers and smokers. Learn more about Radon risks and read studies on the health effects of radon exposure.",
+		"container-title": "US EPA",
+		"genre": "Overviews and Factsheets",
+		"language": "en",
+		"title": "Health Risk of Radon",
+		"URL": "https://www.epa.gov/radon/health-risk-radon",
+		"author": [
+			{
+				"family": "US EPA",
+				"given": "OAR"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3374479/items/V7IX3GF9",
+		"type": "article",
+		"title": "2016_a_citizens_guide_to_radon.pdf"
+	},
+	{
+		"id": "http://zotero.org/users/3374479/items/DZIAXGT4",
+		"type": "article",
+		"title": "Pearce_radon_NewScientist_1987.pdf"
+	},
+	{
+		"id": "swanson61",
+		"type": "article-journal",
+		"container-title": "Professional Paper",
+		"DOI": "10.3133/pp356C",
+		"ISSN": "2330-7102",
+		"note": "number: 356-C",
+		"source": "pubs.er.usgs.gov",
+		"title": "Geology and geochemistry of uranium in marine black shales--A review",
+		"URL": "https://pubs.er.usgs.gov/publication/pp356C",
+		"author": [
+			{
+				"family": "Swanson",
+				"given": "V. E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1961"
+				]
+			]
+		}
+	},
+	{
+		"id": "Virginia",
+		"type": "map",
+		"event-place": "Virginia",
+		"language": "EN",
+		"publisher": "Environmental Protection Agency",
+		"publisher-place": "Virginia",
+		"title": "Virginia - Radon Zones",
+		"URL": "https://www.epa.gov/sites/production/files/2015-02/documents/r3-va-riskmap-largefont.pdf"
+	},
+	{
+		"id": "pearce87",
+		"type": "article-journal",
+		"abstract": "The paper concerns radon gas in buildings in the United Kingdom, and its effect as\na major public health hazard It is estimated by the National Radiological Protection\nBoard (NRPB) that this gas is probably the single biggest cause of lung cancer in\nBritain, after smoking, killing around 900 people every year The findings of a national\nsurvey carried out by NRPB on radon concentrations in 2,300 homes are discussed Sources\nof radon gas are described, as well as measures to reduce radon levels in buildings\n(UK)",
+		"container-title": "New Scientist (London)",
+		"ISSN": "0028-6664",
+		"issue": "1546",
+		"note": "publisher-place: United Kingdom",
+		"page": "33-35",
+		"title": "A deadly gas under the floorboards",
+		"URL": "http://inis.iaea.org/search/search.aspx?orig_q=RN:18068671",
+		"volume": "113",
+		"author": [
+			{
+				"family": "Pearce",
+				"given": "Fred."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "Indoor",
+		"type": "webpage",
+		"container-title": "Virginia Department of Health",
+		"genre": "Government",
+		"language": "en-US",
+		"title": "Indoor Radon Program – Radiological Health",
+		"URL": "https://www.vdh.virginia.gov/radiological-health/indoor-radon-program/, https://www.vdh.virginia.gov/radiological-health/indoor-radon-program/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "joubert_etal19",
+		"type": "article-journal",
+		"abstract": "There is a renewed interest amongst science communication practitioners and scholars to explore the potential of storytelling in public communication of science, including to understand how science storytelling functions (or could fail) in different contexts. Drawing from storytelling as the core theme of the 2018 conference of the Public Communication of Science and Technology (PCST) Network, we present a selection of papers, essays and practice insights that offer diverse perspectives. Some contributions focus on the cultural and structural qualities of science stories and its key success factors, while others explore new formats, platforms and collaborators in science storytelling activities.",
+		"container-title": "Journal of Science Communication",
+		"DOI": "10.22323/2.18050501",
+		"ISSN": "1824-2049",
+		"issue": "5",
+		"journalAbbreviation": "JCOM",
+		"language": "en",
+		"note": "publisher: SISSA Medialab",
+		"page": "E",
+		"source": "jcom.sissa.it",
+		"title": "Storytelling: the soul of science communication",
+		"title-short": "Storytelling",
+		"URL": "https://jcom.sissa.it/archive/18/05/JCOM_1805_2019_E",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Joubert",
+				"given": "Marina"
+			},
+			{
+				"family": "Davis",
+				"given": "Lloyd"
+			},
+			{
+				"family": "Metcalfe",
+				"given": "Jennifer"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "samet89",
+		"type": "article-journal",
+		"abstract": "Radon, an inert gas released during the decay of uranium-238, is ubiquitous in indoor and outdoor air and contaminates many underground mines. Extensive epidemiologic evidence from studies of underground miners and complementary animal data have documented that radon causes lung cancer in smokers and nonsmokers. Radon must also be considered a potentially important cause of lung cancer for the general population, which is exposed through contamination of indoor air by radon from soil, water, and building materials. This review describes radon's sources, levels in U.S. homes, dosimetry, the epidemiologic evidence from studies of miners and the general population, and the principal, recent risk assessments.",
+		"container-title": "JNCI: Journal of the National Cancer Institute",
+		"DOI": "10.1093/jnci/81.10.745",
+		"ISSN": "0027-8874",
+		"issue": "10",
+		"journalAbbreviation": "JNCI: Journal of the National Cancer Institute",
+		"page": "745-758",
+		"source": "Silverchair",
+		"title": "Radon and Lung Cancer",
+		"URL": "https://doi.org/10.1093/jnci/81.10.745",
+		"volume": "81",
+		"author": [
+			{
+				"family": "Samet",
+				"given": "Jonathan M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1989",
+					5,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "nationalresearchcounciluscommitteeonthebiologicaleffectsofionizingradiations88",
+		"type": "book",
+		"abstract": "This book describes hazards from radon progeny and other alpha-emitters that humans may inhale or ingest from their environment. In their analysis, the authors summarize in one document clinical and epidemiological evidence, the results of animal studies, research on alpha-particle damage at the cellular level, metabolic pathways for internal alpha-emitters, dosimetry and microdosimetry of radionuclides deposited in specific tissues, and the chemical toxicity of some low-specific-activity alpha-emitters. Techniques for estimating the risks to humans posed by radon and other internally deposited alpha-emitters are offered, along with a discussion of formulas, models, methods, and the level of uncertainty inherent in the risk estimates.",
+		"call-number": "NBK218125",
+		"event-place": "Washington (DC)",
+		"ISBN": "978-0-309-03789-1",
+		"language": "eng",
+		"note": "PMID: 25032289",
+		"publisher": "National Academies Press (US)",
+		"publisher-place": "Washington (DC)",
+		"source": "PubMed",
+		"title": "Health Risks of Radon and Other Internally Deposited Alpha-Emitters: Beir IV",
+		"title-short": "Health Risks of Radon and Other Internally Deposited Alpha-Emitters",
+		"URL": "http://www.ncbi.nlm.nih.gov/books/NBK218125/",
+		"author": [
+			{
+				"literal": "National Research Council (US) Committee on the Biological Effects of Ionizing Radiations"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
 				]
 			]
 		}
