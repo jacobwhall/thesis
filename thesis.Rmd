@@ -19,6 +19,7 @@ Professor Rowan Lockwood\\
 \today
 \end{flushleft}
 \doublespacing
+
 ## Introduction
 Radon is a naturally-occurring gas that is a part of the uranium decay chain.
 It is a common hazard in residential basements, where radon seeping out the ground can enter into houses and eventually cause lung cancer.
@@ -31,11 +32,14 @@ One of the ways to make science communication engaging is to tell a story.
 Storytelling allows people to connect to a concept, and informs their own decisions.
 <!-- This citation is fantastic and I should look more into its references -->
 [@joubert_etal19]
+There is a general lack of understanding in the United States of radon and the health risks it poses.
+[@vogeltanz-holm_schwartz18]
 
 For this project, I will produce a video that tells the story of radon in Williamsburg to the community.
+It will communicate what radon is, previous research at William \& Mary, and how people can learn more about it.
 The project will include the development of storytelling methods and accessibility standards that the video will strive to meet.
 
-## Research Goal 
+## Research Goal  
 
 The purpose of this video will be to communicate current radon research with the Williamsburg public.
 To do so, it will establish what radon is and how it is naturally formed, as well as how it is a health risk.
@@ -47,20 +51,27 @@ The video will be an approachable introduction to why radon is an important topi
 ## Geologic Background
 
 Radon is a chemical element with the atomic number 86.
-It occurs naturally as a short, intermediate step in the uranium decay chain (less than four days).
-It takes the form of a colorless and odorless gas, so it is hard to detect without the use of a specialized detector.
-Radon's half-life is 3.82 days, meaning that after that amount of time half of a given quantity of radon will have decayed into the next decay product.
-The products directly following radon are solids, and also short-lived.
-Two of them, polonium-218 and polonium-214, emit alpha particles.
-When radon is inhaled into the lungs, this process can take place within the lungs.
+It occurs naturally as a short intermediate step in uranium decay chains.
+It has three isotopes: ^219^Rn, ^220^Rn, and ^222^Rn.
+[@weigel78]
+^222^Rn is the most impactful on humans, and the isotope of radon I'll be referring to for the remainder of this project.
+^222^Rn has a half-life of 3.82 days, meaning that after that amount of time half of a given quantity of ^222^Rn will have decayed into the next decay product.
+The products directly following ^222^Rn are solids, and also short-lived.
+Two of them, ^218^Po and ^214^Po, emit alpha particles when they decay.
+When ^222^Rn is inhaled into the lungs, this process can take place within the lungs.
 Alpha particles can damage the cells lining airways within the lungs, eventually leading to cancer.
 This is how exposure to radon increases one's risk of lung cancer.
 [@nationalresearchcounciluscommitteeonthebiologicaleffectsofionizingradiations88]
+Radon exposure is the second-highest cause of lung cancer in the United States, behind smoking tobacco.
+<!-- CITATION NEEDED -->
+
+
+![Decay chain of uranium [@user:tosaka14]]("Figures/Radioactive decay chains of uranium.svg.png"){height=60%}
 
 ![Graph from EPA report comparing yearly radon-related deaths compared to other common causes in the US]("Figures/EPA radon graph.png"){width=60%}
 
-![Decay chain of uranium [@user:tosaka14]]("Figures/Radioactive decay chains of uranium.svg.png"){height=40%}
 
+<!--
 >> Cooper's paper had the following quote and citation:
 >> "Naturally occuring uranium exists in many soil and rock types...one place [it] can become concentrated is in decayed organic material...(2)"
 [@swanson61]
@@ -68,29 +79,38 @@ This is how exposure to radon increases one's risk of lung cancer.
 
 	+ "Yorktown formation is characterized by a high fossil content" [@cooper89]
 
+-->
+
+Concentrations of radon are commonly measured in becquerels per kilogram (Bq/Kg), or picocuries per liter (pCi/L).
+Becquerels and curies are both measurements of radioactivity, i.e. they represent the frequency of radioactive decays.
+<!-- I prefer becquerels! IDK WHICH ONE TO USE -->
+
 The coastal plain of Virginia is usually described as low-risk for radon.
 The Environmental Protection Agency's published radon risk map shows Virginia's coastal plain as the lowest-risk region in the state, labeled as "Low Potential (less than 2pCi/L)."
 [@Virginia]
 The Virginia Department of Health has published the same map on their website [@Indoor]
 Someone living in the Williamsburg area who reads this map would likely conclude that their home is at negligible risk of radon exposure.
-While this might be true for much of the coastal plain region, research at William \& Mary has shown there to be areas of higher risk that would be colored in red on the aforementioned map.
+While this might be true for much of the coastal plain, research has shown there are areas of higher risk that would be colored in red on the aforementioned map.
 
 In 1978, Khandelwal and Singh published a short article in Health Physics sharing that they had discovered radioactivity in whale bone vertebra in the Chesapeake Bay, including in the Yorktown Formation.
 [-@khandelwal_singh78]
-
-Research on radon at William and Mary started around 1989 when Jennifer M. Cooper wrote her thesis investigating the Yorktown Formation as a potential source of radon in the Williamsburg area. 
-Her big discovery was that a house had 30 picocuries per Liter, and even more underneath!
-
+<!-- This feels a little out-of-place. Maybe I could find another source about radioactivity in the Chesapeake? -->
+Research on radon at William \& Mary started around 1989 when Jennifer M. Cooper wrote her thesis investigating the Yorktown Formation as a potential source of radon in the Williamsburg area. 
+<!-- She discovered a house had 30pCi/L, and even more underneath! -->
+She tested a number of different locations in York River State Park, correlating the Yorktown formation with radon emission using her own data.
+<!--
 "In order for radon gas to be emitted from the ground, a fairly high level of soil permeability must exist (1)"
 Lasch, David K, 1988, "On Radon": Virginia Minerals, vol.34, no.1 published by Division of Mineral Resources.
-
-
-Cooper's results suggested that there is radon emission from the Yorktown formation.
+-->
 [@cooper89]
 
-The second person to work on this was Tracy Whitesell.
-Her project involved testing different locations for radon, and she determined 
+The second student at William \& Mary to investigate radon was Tracy Whitesell.
+Her project involved testing different locations for radon, and she compared different formations by makeup and average radon concentration.
+Her results clearly show that the Yorktown has higher radon concentrations than nearby formations.
+Whitesell was one of the first to so thoroughly illustrate the radon landscape in the Williamsburg area, and her work was remarkable in confirming the suspicions of previous researchers.
+In the final sentence of her thesis, she recommended that "houses built within or on the Yorktown should be tested for radon."
 [@whitesell90]
+
 <!--
 Borne (94?) -- summarized earlier work, compared Yorktown Formation to different formation -->
 
@@ -103,8 +123,8 @@ This map was created by mapping elevation data at certain thresholds, because th
 
 In 2021, Zoey Mondshine worked to confirm the risk map, by testing individual homes and comparing their relative test results to the regions on Dorian Miller's map.
 Among other observations, she identified homes in the "Low Radon Risk" region with radon levels above the EPA's recommended limit of 4pC/L.
- 
-# Materials and Methods
+
+## Materials and Methods
 
 This video will be produced in three major stages.
 The first will be a literature review investigating what makes videos for science communication effective, and how to make them as accessible as possible using captions and colors friendly to the color blind.
@@ -117,27 +137,27 @@ This stage will include meetings with stakeholders including W\&M faculty and st
 The third stage of this project will be the development of the video.
 This will include filming any interviews or other footage that I might need, and editing them together to realize the script.
 I will review the video with the same stakeholders before finalizing it to make sure it represents their work as well as possible.
-
-# References
+ 
+## References
 
 <div id="refs"></div>
 
-# Budget
+##  Budget
 
 I do not anticipate any costs for this project.
 If I do need to meet with anyone outside of Williamsburg, it would probably be more appropriate to do so virtually anyways because of the ongoing COVID-19 pandemic.
 
-# Timeline
+##  Timeline
 
-## Summer 2021
+### Summer 2021
 
 By the start of the 2021-2022 school year, I will have completed the literature review drafted the script for the video, and reviewed the script with various stakeholders for their feedback.
 
-## Fall 2021
+### Fall 2021
 
 By 2022, I will have filmed all interviews, produced a draft video, and reviewed it with various stakeholders.
 
-## Spring 2022
+### Spring 2022
 
 By the W\&M Geolgy Department's Senior Research Saturday, I will have adjusted the video based on feedback I received in the fall, and added any remaining captions.
 

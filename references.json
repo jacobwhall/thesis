@@ -484,5 +484,123 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "vogeltanz-holm_schwartz18",
+		"type": "article-journal",
+		"abstract": "Radon causes approximately 21,000 deaths annually from lung cancer, making it the second most important cause of lung cancer after smoking. However, the extent of public knowledge about radon is unclear. We systematically reviewed the epidemiologic literature in order to assay the public's understanding about radon and specifically, whether radon is known to cause lung cancer. Radon knowledge has most often been gauged via telephone and in-person responses to the question, “Have you heard about radon?” Our review of 20 such studies reveals that although many individuals have “heard about” radon, many segments of the population, particularly individuals younger than thirty and those with less education, do not know what radon is. Of those who have heard about radon, the majority of respondents in many studies did not know that radon causes lung cancer. Conversely, misinformation about radon is common; approximately 50% of respondents in many studies reported the erroneous belief that radon causes headaches. This suggests that the public has confused the effects of radon with those of carbon monoxide. Rates of radon testing and mitigation are correpondingly low and appear to reflect cognitive defense mechanisms by which individuals believe that their risks from radon are lower than the risks faced by others. Our review suggests that public information materials about radon require revision. Specifically, these should emphasize that radon causes lung cancer and that household carbon monoxide detectors do not detect it. Radon education provided by realtors at the time of residential home sales may be a promising venue to increase radon testing and remediation.",
+		"container-title": "Journal of Environmental Radioactivity",
+		"DOI": "10.1016/j.jenvrad.2018.05.017",
+		"ISSN": "0265-931X",
+		"journalAbbreviation": "Journal of Environmental Radioactivity",
+		"language": "en",
+		"page": "26-31",
+		"source": "ScienceDirect",
+		"title": "Radon and lung cancer: What does the public really know?",
+		"title-short": "Radon and lung cancer",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0265931X18300171",
+		"volume": "192",
+		"author": [
+			{
+				"family": "Vogeltanz-Holm",
+				"given": "Nancy"
+			},
+			{
+				"family": "Schwartz",
+				"given": "Gary G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "samet11",
+		"type": "article-journal",
+		"abstract": "This paper provides a perspective on epidemiological research on radiation and cancer, a field that has evolved over its six decade history. The review covers the current framework for assessing radiation risk and persistent questions about the details of these risks: is there a threshold and more generally, what is the shape of the dose-response relationship? How do risks vary over time and with age? What factors modify the risk of radiation? The example of radon progeny and lung cancer is considered as a case study, illustrating the modeling of epidemiological data to derive quantitative models and the coherence of the epidemiological and biological evidence. Finally, the manuscript considers the need for ongoing research, even in the face of research over a 60-year span.",
+		"container-title": "Environmental Health",
+		"DOI": "10.1186/1476-069X-10-S1-S4",
+		"ISSN": "1476-069X",
+		"issue": "1",
+		"journalAbbreviation": "Environmental Health",
+		"page": "S4",
+		"source": "BioMed Central",
+		"title": "Radiation and cancer risk: a continuing challenge for epidemiologists",
+		"title-short": "Radiation and cancer risk",
+		"URL": "https://doi.org/10.1186/1476-069X-10-S1-S4",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Samet",
+				"given": "Jonathan M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					4,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "weigel78",
+		"type": "article-journal",
+		"container-title": "Chem. Ztg",
+		"issue": "9",
+		"language": "German",
+		"page": "287-299",
+		"source": "inis.iaea.org",
+		"title": "Radon",
+		"URL": "http://inis.iaea.org/Search/search.aspx?orig_q=RN:10454521",
+		"volume": "102",
+		"author": [
+			{
+				"family": "Weigel",
+				"given": "F."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
 	}
 ]
