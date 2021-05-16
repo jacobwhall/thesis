@@ -11,9 +11,21 @@ urlcolor: blue
 bibliography: references.json
 csl: the-geological-society-of-america.csl
 ---
+<!--
+TODO:
+	EDIT TITLE?
+-->
+
+# Communicating Radon Health Risks to Williamsburg Public
+
+<!--
+TODO:
+	BETTER FIGURE CITATIONS, CAPTIONS
+	REFERENCE FIGURES IN TEXT?
+-->
+
 \begin{flushleft}
-Senior Research Proposal\\
-Jacob Hall\\
+by Jacob Hall\\
 Intro to Geologic Research\\
 Professor Rowan Lockwood\\
 \today
@@ -21,8 +33,13 @@ Professor Rowan Lockwood\\
 \doublespacing
 
 ## Introduction
-Radon is a naturally-occurring gas that is a part of the uranium decay chain.
-It is a common hazard in residential basements, where radon seeping out the ground can enter into houses and eventually cause lung cancer.
+
+<!-- COMMENT FROM HEATHER:
+
+I don't find this paragraph to be compelling and it doesn't seem to be a good introduction to your research.  Can you think of what you would say to some one to describe the radon project and the point of your video in two or three sentences that would be more descriptive and that sets up the point of doing a video Why is it important to communicate to the Williamsburg community  about radon, the radon risk map and research on the source and distribution of radon in the Williamsburg area and mitigation strategies.  What about something more like the William & Mary Geology Department has been investigating radon as a risk hazard in the Williamsburg region for years.  Recently a radon risk hazard map in the Williamsburg area  that was developed (Berquist, Miller) has been validated in the City of Williasmburg by Mondshine (2021).  Given the heath hazards of homes that have high levels of radon, it is important to educate/enage/publicize/spread the work to the local community (to the public).  for my senior research, I propose to a video that would be an excellent mechanism to both enage the community and educate them on radon ....  OK - you get the idea.
+-->
+
+Radon gas is a common hazard in residential basements, where radon seeping out the ground can enter into houses and eventually cause lung cancer.
 In the 70s, uranium decay products were identified in the Yorktown Formation, and since then numerous students and faculty in the William \& Mary geology department have studied radon's presence in Williamsburg.
 
 Online videos are an increasingly common medium for information and entertainment consumption, and have potential for effective science communication.
@@ -41,7 +58,7 @@ The project will include the development of storytelling methods and accessibili
 
 ## Research Goal  
 
-The purpose of this video will be to communicate current radon research with the Williamsburg public.
+The purpose of this video will be to communicate how radon is a potential health hazard to the Williamsburg public.
 To do so, it will establish what radon is and how it is naturally formed, as well as how it is a health risk.
 The video will then summarize previous research on Radon in the Williamsburg area, including student research projects at William \& Mary.
 The video will conclude with encouragement for viewers to learn more about radon, and to get their homes tested.
@@ -51,7 +68,7 @@ The video will be an approachable introduction to why radon is an important topi
 ## Geologic Background
 
 Radon is a chemical element with the atomic number 86.
-It occurs naturally as a short intermediate step in uranium decay chains.
+It occurs naturally as a short intermediate step in uranium decay chains (Figure 1).
 It has three isotopes: ^219^Rn, ^220^Rn, and ^222^Rn.
 [@weigel78]
 ^222^Rn is the most impactful on humans, and the isotope of radon I'll be referring to for the remainder of this project.
@@ -85,14 +102,13 @@ Concentrations of radon are commonly measured in becquerels per kilogram (Bq/Kg)
 Becquerels and curies are both measurements of radioactivity, i.e. they represent the frequency of radioactive decays.
 <!-- I prefer becquerels! IDK WHICH ONE TO USE -->
 
-The coastal plain of Virginia is usually described as low-risk for radon.
 The Environmental Protection Agency's published radon risk map shows Virginia's coastal plain as the lowest-risk region in the state, labeled as "Low Potential (less than 2pCi/L)."
 [@Virginia]
 The Virginia Department of Health has published the same map on their website [@Indoor]
 Someone living in the Williamsburg area who reads this map would likely conclude that their home is at negligible risk of radon exposure.
 While this might be true for much of the coastal plain, research has shown there are areas of higher risk that would be colored in red on the aforementioned map.
 
-In 1978, Khandelwal and Singh published a short article in Health Physics sharing that they had discovered radioactivity in whale bone vertebra in the Chesapeake Bay, including in the Yorktown Formation.
+In 1978, Khandelwal and Singh published a short article in Health Physics sharing that they had discovered radioactivity in whale bone vertebra in the Chesapeake Bay area, including in the Yorktown Formation.
 [-@khandelwal_singh78]
 <!-- This feels a little out-of-place. Maybe I could find another source about radioactivity in the Chesapeake? -->
 Research on radon at William \& Mary started around 1989 when Jennifer M. Cooper wrote her thesis investigating the Yorktown Formation as a potential source of radon in the Williamsburg area. 
@@ -129,14 +145,17 @@ Among other observations, she identified homes in the "Low Radon Risk" region wi
 This video will be produced in three major stages.
 The first will be a literature review investigating what makes videos for science communication effective, and how to make them as accessible as possible using captions and colors friendly to the color blind.
 <!-- Baylee also suggested image descriptions and screenreader-friendly fonts -->
+I will also continue to read about and communicate with the people who have conducted research on radon in this area.
 
 The second stage of this project will be script development.
 I will write a script based on the research goals described above and the guidelines established in my literature review.
 This stage will include meetings with stakeholders including W\&M faculty and students, and community members who have previously volunteered to participate in radon-related research.
+These meetings will help me hone the accuracy of the message and power of the story that I will communicate.
 
 The third stage of this project will be the development of the video.
 This will include filming any interviews or other footage that I might need, and editing them together to realize the script.
-I will review the video with the same stakeholders before finalizing it to make sure it represents their work as well as possible.
+I will review the video with the same stakeholders before finalizing it.
+This will help ensure it represents their work as well as possible, communicates the topic in a way they find effective, and gives them an opportunity to review footage of themselves before the video is released.
  
 ## References
 
