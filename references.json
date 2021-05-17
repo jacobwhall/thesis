@@ -602,5 +602,190 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "grzywa-celinska_etal20",
+		"type": "article-journal",
+		"abstract": "Lung cancer is a heterogeneous group of diseases with multifactorial aetiology. Smoking has been undeniably recognized as the main aetiological factor in lung cancer, but it should be emphasized that it is not the only factor. It is worth noting that a number of nonsmokers also develop this disease. Radon exposure is the second greatest risk factor for lung cancer among smokers&mdash;after smoking&mdash;and the first one for nonsmokers. The knowledge about this element amongst specialist oncologists and pulmonologists seems to be very superficial. We discuss the impact of radon on human health, with particular emphasis on respiratory diseases, including lung cancer. A better understanding of the problem will increase the chance of reducing the impact of radon exposure on public health and may contribute to more effective prevention of a number of lung diseases.",
+		"container-title": "Toxics",
+		"DOI": "10.3390/toxics8040120",
+		"issue": "4",
+		"language": "en",
+		"note": "number: 4\npublisher: Multidisciplinary Digital Publishing Institute",
+		"page": "120",
+		"source": "www.mdpi.com",
+		"title": "Radon—The Element of Risk. The Impact of Radon Exposure on Human Health",
+		"URL": "https://www.mdpi.com/2305-6304/8/4/120",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Grzywa-Celińska",
+				"given": "Anna"
+			},
+			{
+				"family": "Krusiński",
+				"given": "Adam"
+			},
+			{
+				"family": "Mazur",
+				"given": "Jadwiga"
+			},
+			{
+				"family": "Szewczyk",
+				"given": "Katarzyna"
+			},
+			{
+				"family": "Kozak",
+				"given": "Krzysztof"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "yoon_etal16",
+		"type": "article-journal",
+		"abstract": "Lung cancer has high mortality and incidence rates. The leading causes of lung cancer are smoking and radon exposure. Indeed, the World Health Organization (WHO) has categorized radon as a carcinogenic substance causing lung cancer. Radon is a natural, radioactive substance; it is an inert gas that mainly exists in soil or rock. The gas decays into radioactive particles called radon progeny that can enter the human body through breathing. Upon entering the body, these radioactive elements release α-rays that affect lung tissue, causing lung cancer upon long-term exposure thereto. Epidemiological studies first outlined a high correlation between the incidence rate of lung cancer and exposure to radon progeny among miners in Europe. Thereafter, data and research on radon exposure and lung cancer incidence in homes have continued to accumulate. Many international studies have reported increases in the risk ratio of lung cancer when indoor radon concentrations inside the home are high.",
+		"container-title": "Annals of Occupational and Environmental Medicine",
+		"DOI": "10.1186/s40557-016-0098-z",
+		"ISSN": "2052-4374",
+		"issue": "1",
+		"journalAbbreviation": "Annals of Occupational and Environmental Medicine",
+		"page": "15",
+		"source": "BioMed Central",
+		"title": "Indoor radon exposure and lung cancer: a review of ecological studies",
+		"title-short": "Indoor radon exposure and lung cancer",
+		"URL": "https://doi.org/10.1186/s40557-016-0098-z",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Yoon",
+				"given": "Ji Young"
+			},
+			{
+				"family": "Lee",
+				"given": "Jung-Dong"
+			},
+			{
+				"family": "Joo",
+				"given": "So Won"
+			},
+			{
+				"family": "Kang",
+				"given": "Dae Ryong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "Health98",
+		"type": "report",
+		"language": "en",
+		"note": "DOI: 10.26616/NIOSHHETA9602642713",
+		"publisher": "U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health",
+		"source": "DOI.org (Crossref)",
+		"title": "Health hazard evaluation report: HETA-96-0264-2713, Hagerman Fossil Beds National Monument, National Park Service, U.S. Department of the Interior, Hagerman, Idaho.",
+		"title-short": "Health hazard evaluation report",
+		"URL": "https://www.cdc.gov/niosh/hhe/reports/pdfs/1996-0264-2713.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Citizen16",
+		"type": "article",
+		"language": "English",
+		"publisher": "US EPA",
+		"title": "A Citizen's Guide to Radon",
+		"URL": "https://www.epa.gov/radon/citizens-guide-radon-guide-protecting-yourself-and-your-family-radon",
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "usepa14a",
+		"type": "report",
+		"abstract": "This 2003 document will serve as a technical basis for EPA’s estimates of risk from radon in homes. It provides estimates of the risk per unit exposure and projects the number of fatal lung cancers occurring in the U.S. population each year due to radon.",
+		"genre": "Reports and Assessments",
+		"language": "en",
+		"page": "88",
+		"title": "EPA Assessment of Risks from Radon in Homes",
+		"URL": "https://www.epa.gov/radon/epa-assessment-risks-radon-homes",
+		"author": [
+			{
+				"family": "US EPA",
+				"given": "OAR"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					11,
+					19
+				]
+			]
+		}
 	}
 ]

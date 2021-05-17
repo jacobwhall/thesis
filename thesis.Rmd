@@ -16,7 +16,7 @@ TODO:
 	EDIT TITLE?
 -->
 
-# Communicating Radon Health Risks to Williamsburg Public
+# Producing a Video to Communicate Radon Health Risks in Williamsburg
 
 <!--
 TODO:
@@ -25,7 +25,7 @@ TODO:
 -->
 
 \begin{flushleft}
-by Jacob Hall\\
+Jacob Hall\\
 Intro to Geologic Research\\
 Professor Rowan Lockwood\\
 \today
@@ -40,7 +40,7 @@ I don't find this paragraph to be compelling and it doesn't seem to be a good in
 -->
 
 Radon gas is a common hazard in residential basements, where radon seeping out the ground can enter into houses and eventually cause lung cancer.
-In the 70s, uranium decay products were identified in the Yorktown Formation, and since then numerous students and faculty in the William \& Mary geology department have studied radon's presence in Williamsburg.
+In the 70s, uranium decay products were identified in local fossil marine bones, and since then numerous students and faculty in the William \& Mary geology department have studied radon's presence in Williamsburg.
 
 Online videos are an increasingly common medium for information and entertainment consumption, and have potential for effective science communication.
 <!-- The next citation mentions but does not strongly justify that statement. -->
@@ -58,6 +58,14 @@ The project will include the development of storytelling methods and accessibili
 
 ## Research Goal  
 
+
+<!-- COMMENT FROM RICK:
+	Emphasize the amount of knowledge
+	I'll have to build about radioactive
+	decay, local stratigraphy, and
+	previous research to make this
+	project a success
+-->
 The purpose of this video will be to communicate how radon is a potential health hazard to the Williamsburg public.
 To do so, it will establish what radon is and how it is naturally formed, as well as how it is a health risk.
 The video will then summarize previous research on Radon in the Williamsburg area, including student research projects at William \& Mary.
@@ -82,11 +90,9 @@ This is how exposure to radon increases one's risk of lung cancer.
 Radon exposure is the second-highest cause of lung cancer in the United States, behind smoking tobacco.
 <!-- CITATION NEEDED -->
 
-
 ![Decay chain of uranium [@user:tosaka14]]("Figures/Radioactive decay chains of uranium.svg.png"){height=60%}
 
-![Graph from EPA report comparing yearly radon-related deaths compared to other common causes in the US]("Figures/EPA radon graph.png"){width=60%}
-
+![Yearly radon-related deaths compared to other common causes in the US [@usepa14a]]("Figures/new EPA radon graph.png"){width=60%}
 
 <!--
 >> Cooper's paper had the following quote and citation:
@@ -111,7 +117,7 @@ While this might be true for much of the coastal plain, research has shown there
 In 1978, Khandelwal and Singh published a short article in Health Physics sharing that they had discovered radioactivity in whale bone vertebra in the Chesapeake Bay area, including in the Yorktown Formation.
 [-@khandelwal_singh78]
 <!-- This feels a little out-of-place. Maybe I could find another source about radioactivity in the Chesapeake? -->
-Research on radon at William \& Mary started around 1989 when Jennifer M. Cooper wrote her thesis investigating the Yorktown Formation as a potential source of radon in the Williamsburg area. 
+Research on radon at William \& Mary started around 1989 when Jennifer M. Cooper wrote a report about the Yorktown Formation as a potential source of radon in the Williamsburg area. 
 <!-- She discovered a house had 30pCi/L, and even more underneath! -->
 She tested a number of different locations in York River State Park, correlating the Yorktown formation with radon emission using her own data.
 <!--
@@ -134,8 +140,7 @@ In 2020, Dorian Miller created [a "risk map" of radon near William \& Mary's cam
 This map was created by mapping elevation data at certain thresholds, because the Yorktown Formation is a horizontal layer that becomes closer to the surface as the elevation decreases.
 [@miller_etal20]
 
-![Radon risk assessment map made by Dorian Miller (@miller_etal20)]("Figures/radon risk map.png")
-[@miller_etal20]
+![Radon risk assessment map of Williamsburg [@miller_etal20]]("Figures/radon risk map.png")
 
 In 2021, Zoey Mondshine worked to confirm the risk map, by testing individual homes and comparing their relative test results to the regions on Dorian Miller's map.
 Among other observations, she identified homes in the "Low Radon Risk" region with radon levels above the EPA's recommended limit of 4pC/L.
@@ -178,5 +183,5 @@ By 2022, I will have filmed all interviews, produced a draft video, and reviewed
 
 ### Spring 2022
 
-By the W\&M Geolgy Department's Senior Research Saturday, I will have adjusted the video based on feedback I received in the fall, and added any remaining captions.
+By the W\&M Geology Department's Senior Research Saturday, I will have adjusted the video based on feedback I received in the fall, and added any remaining captions.
 
