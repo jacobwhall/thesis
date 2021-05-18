@@ -11,6 +11,8 @@ header-includes:
 urlcolor: blue
 bibliography: references.json
 csl: the-geological-society-of-america.csl
+nocite: |
+  @khandelwal_singh78
 ---
 <!--
 TODO:
@@ -91,8 +93,9 @@ The Virginia Department of Health has published the same map on their website [@
 Someone living in the Williamsburg area who reads this map would likely conclude that their home is at negligible risk of radon exposure.
 While this might be true for much of the coastal plain, research has shown there are areas of higher risk that would be colored in red on the aforementioned map.
 
-In 1978, -@khandelwal_singh78 published a short article in Health Physics sharing that they had discovered radioactivity in whale bone vertebra in the Chesapeake Bay area, including in the Yorktown Formation.
+In 1978, Khandelwal and Singh published a short article in Health Physics sharing that they had discovered radioactivity in whale bone vertebra in the Chesapeake Bay area, including in the Yorktown Formation.
 <!-- This feels a little out-of-place. Maybe I could find another source about radioactivity in the Chesapeake? -->
+<!-- ALSO, please note @khandelwal_singh78 is added as a nocite so that the paragraph formatting can be as such -->
 Research on radon at William \& Mary started around 1989 when Jennifer M. Cooper wrote a report about the Yorktown Formation as a potential source of radon in the Williamsburg area [@cooper89].
 <!-- She discovered a house had 30pCi/L, and even more underneath! -->
 She tested a number of different locations in York River State Park, correlating the Yorktown formation with radon emission using her own data.
