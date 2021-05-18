@@ -45,20 +45,6 @@
 		}
 	},
 	{
-		"id": "paris",
-		"type": "article-journal",
-		"language": "en",
-		"page": "24",
-		"source": "Zotero",
-		"title": "Radon in Virginia Real Estate Transactions",
-		"author": [
-			{
-				"family": "Paris",
-				"given": "Ryan (VDH)"
-			}
-		]
-	},
-	{
 		"id": "hipps",
 		"type": "article-journal",
 		"abstract": "Methods..............................................................................................................................20\nResults................................................................................................................................24 Discussion..........................................................................................................................25 Future Work.......................................................................................................................32\nConclusions.......................................................................................................................35 Acknowledgements...................................................................................................................36 References Cited................................................................................................................36 Appendix A: Data Tables...................................................................................................41",
@@ -117,11 +103,13 @@
 	},
 	{
 		"id": "cooper89",
-		"type": "thesis",
+		"type": "report",
 		"abstract": "The presence of radioactive fossils and high soil permeability of certain locations with the Coastal Plain of Virginia, particularly in the Yorktown Formation, provide the necessary conditions for radon gas to be emitted. Radon gas concentration prediction and detection methods were tested in Croaker, Virginia. An attempt was made to predict radon concentration levels by conducting a survey of radioactivity. When concentrations of radon gas were determined and compared to the radioactivity survey results, little correlation was found. The radon test was conducted in the Yorktown Formation and the formations directly above and below it. The results of the test indicated that much higher concentrations of radon are emitted from the Yorktown Formation than from its surrounding formations. A source of radon is suspected to exist in the middle of the Yorktown Formation, as well as at the formation contacts. The exact nature of the source, however, is yet unknown.",
+		"event-place": "Williamsburg, Virginia",
+		"genre": "unpublished Research Experience for Undergraduates Project Report, Department of Geology",
 		"language": "English",
-		"number-of-pages": "31",
 		"publisher": "William & Mary",
+		"publisher-place": "Williamsburg, Virginia",
 		"title": "A Study of the Relationships Between Radon Gas and the Geology of the Coastal Plain of Virginia",
 		"author": [
 			{
@@ -207,6 +195,7 @@
 		"id": "whitesell90",
 		"type": "thesis",
 		"abstract": "Radon is a radioactive gas created in the decay chain of uranium-238. In the Coastal Plain of Virginia, this gas possibly may be a health hazard when houses are built upon the Yorktown Formation. Two major areas of study plus an additional house-site were tested for radon emission resulting in a total of twenty radon wells. Ten detector sites were located at Chippokes Plantation State Park in Surry, Virginia; eight detector sites were located at Matoaka Woods in Williamsburg, Virginia; and two detector sites were situated at a house near York River State Park, Croaker, Virginia. During the week of January 11 to 18, 1990, the Yorktown, Bacons Castle, Windsor, and Shirley formations were monitored for radon using diffusion barrier charcoal cannister radon traps made by Key Technology, Incorporated. Radioactivity was measured with a GPS scintillometer/spectrometer at each of the sites to determine what element caused the radioactivity and the amount of radioactivity present.\n\nThis study verified that radon occuring in the Yorktown Formation was regional and high enough to advise testing in basements of homes built within it. Marine mammal bones probably contributed to this problem. Although the highest emission values were produced from sands, sands of similar lithology from other locations were less productive. Furthermore, clay-rich fossiliferous sediments also produced fairly high values. This suggested that grain size may not always be a good predictor of high radon emission. The average radon concentrations in Windsor, Bacons Castle, and Shirley sediments were less than the average radon concentrations in the Yorktown sediments. Radioactivity almost always peaked in the Yorktown Formation; however, uranium measurements did not always correspond to the total background counts. High uranium counts taken 1.5 meters below the elevation of the radon test well correlated reasonably well with high radon emissions.",
+		"genre": "Senior Thesis, Department of Geology",
 		"language": "English",
 		"number-of-pages": "63",
 		"publisher": "William & Mary",
@@ -262,49 +251,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/3374479/items/V7IX3GF9",
-		"type": "article",
-		"title": "2016_a_citizens_guide_to_radon.pdf"
-	},
-	{
-		"id": "http://zotero.org/users/3374479/items/DZIAXGT4",
-		"type": "article",
-		"title": "Pearce_radon_NewScientist_1987.pdf"
-	},
-	{
-		"id": "swanson61",
-		"type": "article-journal",
-		"container-title": "Professional Paper",
-		"DOI": "10.3133/pp356C",
-		"ISSN": "2330-7102",
-		"note": "number: 356-C",
-		"source": "pubs.er.usgs.gov",
-		"title": "Geology and geochemistry of uranium in marine black shales--A review",
-		"URL": "https://pubs.er.usgs.gov/publication/pp356C",
-		"author": [
-			{
-				"family": "Swanson",
-				"given": "V. E."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					5,
-					12
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1961"
-				]
-			]
-		}
-	},
-	{
 		"id": "Virginia",
 		"type": "map",
 		"event-place": "Virginia",
@@ -315,40 +261,13 @@
 		"URL": "https://www.epa.gov/sites/production/files/2015-02/documents/r3-va-riskmap-largefont.pdf"
 	},
 	{
-		"id": "pearce87",
-		"type": "article-journal",
-		"abstract": "The paper concerns radon gas in buildings in the United Kingdom, and its effect as\na major public health hazard It is estimated by the National Radiological Protection\nBoard (NRPB) that this gas is probably the single biggest cause of lung cancer in\nBritain, after smoking, killing around 900 people every year The findings of a national\nsurvey carried out by NRPB on radon concentrations in 2,300 homes are discussed Sources\nof radon gas are described, as well as measures to reduce radon levels in buildings\n(UK)",
-		"container-title": "New Scientist (London)",
-		"ISSN": "0028-6664",
-		"issue": "1546",
-		"note": "publisher-place: United Kingdom",
-		"page": "33-35",
-		"title": "A deadly gas under the floorboards",
-		"URL": "http://inis.iaea.org/search/search.aspx?orig_q=RN:18068671",
-		"volume": "113",
-		"author": [
-			{
-				"family": "Pearce",
-				"given": "Fred."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1987",
-					2
-				]
-			]
-		}
-	},
-	{
 		"id": "Indoor",
 		"type": "webpage",
 		"container-title": "Virginia Department of Health",
 		"genre": "Government",
 		"language": "en-US",
 		"title": "Indoor Radon Program – Radiological Health",
-		"URL": "https://www.vdh.virginia.gov/radiological-health/indoor-radon-program/, https://www.vdh.virginia.gov/radiological-health/indoor-radon-program/",
+		"URL": "https://www.vdh.virginia.gov/radiological-health/indoor-radon-program/",
 		"accessed": {
 			"date-parts": [
 				[
@@ -604,141 +523,6 @@
 		}
 	},
 	{
-		"id": "grzywa-celinska_etal20",
-		"type": "article-journal",
-		"abstract": "Lung cancer is a heterogeneous group of diseases with multifactorial aetiology. Smoking has been undeniably recognized as the main aetiological factor in lung cancer, but it should be emphasized that it is not the only factor. It is worth noting that a number of nonsmokers also develop this disease. Radon exposure is the second greatest risk factor for lung cancer among smokers&mdash;after smoking&mdash;and the first one for nonsmokers. The knowledge about this element amongst specialist oncologists and pulmonologists seems to be very superficial. We discuss the impact of radon on human health, with particular emphasis on respiratory diseases, including lung cancer. A better understanding of the problem will increase the chance of reducing the impact of radon exposure on public health and may contribute to more effective prevention of a number of lung diseases.",
-		"container-title": "Toxics",
-		"DOI": "10.3390/toxics8040120",
-		"issue": "4",
-		"language": "en",
-		"note": "number: 4\npublisher: Multidisciplinary Digital Publishing Institute",
-		"page": "120",
-		"source": "www.mdpi.com",
-		"title": "Radon—The Element of Risk. The Impact of Radon Exposure on Human Health",
-		"URL": "https://www.mdpi.com/2305-6304/8/4/120",
-		"volume": "8",
-		"author": [
-			{
-				"family": "Grzywa-Celińska",
-				"given": "Anna"
-			},
-			{
-				"family": "Krusiński",
-				"given": "Adam"
-			},
-			{
-				"family": "Mazur",
-				"given": "Jadwiga"
-			},
-			{
-				"family": "Szewczyk",
-				"given": "Katarzyna"
-			},
-			{
-				"family": "Kozak",
-				"given": "Krzysztof"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					5,
-					14
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2020",
-					12
-				]
-			]
-		}
-	},
-	{
-		"id": "yoon_etal16",
-		"type": "article-journal",
-		"abstract": "Lung cancer has high mortality and incidence rates. The leading causes of lung cancer are smoking and radon exposure. Indeed, the World Health Organization (WHO) has categorized radon as a carcinogenic substance causing lung cancer. Radon is a natural, radioactive substance; it is an inert gas that mainly exists in soil or rock. The gas decays into radioactive particles called radon progeny that can enter the human body through breathing. Upon entering the body, these radioactive elements release α-rays that affect lung tissue, causing lung cancer upon long-term exposure thereto. Epidemiological studies first outlined a high correlation between the incidence rate of lung cancer and exposure to radon progeny among miners in Europe. Thereafter, data and research on radon exposure and lung cancer incidence in homes have continued to accumulate. Many international studies have reported increases in the risk ratio of lung cancer when indoor radon concentrations inside the home are high.",
-		"container-title": "Annals of Occupational and Environmental Medicine",
-		"DOI": "10.1186/s40557-016-0098-z",
-		"ISSN": "2052-4374",
-		"issue": "1",
-		"journalAbbreviation": "Annals of Occupational and Environmental Medicine",
-		"page": "15",
-		"source": "BioMed Central",
-		"title": "Indoor radon exposure and lung cancer: a review of ecological studies",
-		"title-short": "Indoor radon exposure and lung cancer",
-		"URL": "https://doi.org/10.1186/s40557-016-0098-z",
-		"volume": "28",
-		"author": [
-			{
-				"family": "Yoon",
-				"given": "Ji Young"
-			},
-			{
-				"family": "Lee",
-				"given": "Jung-Dong"
-			},
-			{
-				"family": "Joo",
-				"given": "So Won"
-			},
-			{
-				"family": "Kang",
-				"given": "Dae Ryong"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					5,
-					15
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					3,
-					25
-				]
-			]
-		}
-	},
-	{
-		"id": "Health98",
-		"type": "report",
-		"language": "en",
-		"note": "DOI: 10.26616/NIOSHHETA9602642713",
-		"publisher": "U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health",
-		"source": "DOI.org (Crossref)",
-		"title": "Health hazard evaluation report: HETA-96-0264-2713, Hagerman Fossil Beds National Monument, National Park Service, U.S. Department of the Interior, Hagerman, Idaho.",
-		"title-short": "Health hazard evaluation report",
-		"URL": "https://www.cdc.gov/niosh/hhe/reports/pdfs/1996-0264-2713.pdf",
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					5,
-					17
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1998",
-					9,
-					1
-				]
-			]
-		}
-	},
-	{
 		"id": "Citizen16",
 		"type": "article",
 		"language": "English",
@@ -784,6 +568,74 @@
 					"2014",
 					11,
 					19
+				]
+			]
+		}
+	},
+	{
+		"id": "mondshine21",
+		"type": "paper-conference",
+		"event": "Southeastern Section - 70th Annual Meeting - 2021",
+		"language": "English",
+		"publisher": "GSA",
+		"source": "gsa.confex.com",
+		"title": "VALIDATION OF THE DERIVATIVE RADON-RISK MAP OF WILLIAMSBURG, VIRGINIA",
+		"URL": "https://gsa.confex.com/gsa/2021SE/webprogram/Paper361957.html",
+		"author": [
+			{
+				"family": "Mondshine",
+				"given": "Zoey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "miller21",
+		"type": "paper-conference",
+		"event": "Southeastern Section - 70th Annual Meeting - 2021",
+		"language": "English",
+		"publisher": "GSA",
+		"source": "gsa.confex.com",
+		"title": "MAKING A DERIVATIVE RADON-RISK MAP OF WILLIAMSBURG, VIRGINIA",
+		"URL": "https://gsa.confex.com/gsa/2021SE/webprogram/Paper362191.html",
+		"author": [
+			{
+				"family": "Miller",
+				"given": "Dorian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					1
 				]
 			]
 		}

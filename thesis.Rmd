@@ -1,4 +1,5 @@
 ---
+title: "Producing a Video to Communicate Radon Health Risks in Williamsburg"
 output:
   pdf_document:
     latex_engine: xelatex
@@ -16,14 +17,6 @@ TODO:
 	EDIT TITLE?
 -->
 
-# Producing a Video to Communicate Radon Health Risks in Williamsburg
-
-<!--
-TODO:
-	BETTER FIGURE CITATIONS, CAPTIONS
-	REFERENCE FIGURES IN TEXT?
--->
-
 \begin{flushleft}
 Jacob Hall\\
 Intro to Geologic Research\\
@@ -32,61 +25,46 @@ Professor Rowan Lockwood\\
 \end{flushleft}
 \doublespacing
 
-## Introduction
-
-<!-- COMMENT FROM HEATHER:
-
-I don't find this paragraph to be compelling and it doesn't seem to be a good introduction to your research.  Can you think of what you would say to some one to describe the radon project and the point of your video in two or three sentences that would be more descriptive and that sets up the point of doing a video Why is it important to communicate to the Williamsburg community  about radon, the radon risk map and research on the source and distribution of radon in the Williamsburg area and mitigation strategies.  What about something more like the William & Mary Geology Department has been investigating radon as a risk hazard in the Williamsburg region for years.  Recently a radon risk hazard map in the Williamsburg area  that was developed (Berquist, Miller) has been validated in the City of Williasmburg by Mondshine (2021).  Given the heath hazards of homes that have high levels of radon, it is important to educate/enage/publicize/spread the work to the local community (to the public).  for my senior research, I propose to a video that would be an excellent mechanism to both enage the community and educate them on radon ....  OK - you get the idea.
--->
+# Introduction
 
 Radon gas is a common hazard in residential basements, where radon seeping out the ground can enter into houses and eventually cause lung cancer.
-In the 70s, uranium decay products were identified in local fossil marine bones, and since then numerous students and faculty in the William \& Mary geology department have studied radon's presence in Williamsburg.
-
-Online videos are an increasingly common medium for information and entertainment consumption, and have potential for effective science communication.
-<!-- The next citation mentions but does not strongly justify that statement. -->
-[@finkler_leon19]
+The William \& Mary Geology Department has been investigating the presence of radon in the Williamsburg area for years.
+Since the 80s, Rick Berquist has been conducting and encouraging research projects that build this knowledge.
+These efforts have culminated in the development and validation of a radon risk map of the Williamsburg area [@miller21; @mondshine21].
+Online videos are an increasingly common medium for information and entertainment consumption, and have potential for effective science communication [@finkler_leon19].
+<!-- This citation mentions but does not strongly justify that statement. -->
 One of the ways to make science communication engaging is to tell a story.
-Storytelling allows people to connect to a concept, and informs their own decisions.
+Storytelling allows people to connect to a concept, and informs their decisions [@joubert_etal19].
 <!-- This citation is fantastic and I should look more into its references -->
-[@joubert_etal19]
-There is a general lack of understanding in the United States of radon and the health risks it poses.
-[@vogeltanz-holm_schwartz18]
-
-For this project, I will produce a video that tells the story of radon in Williamsburg to the community.
+There is a general lack of understanding in the United States of radon and the health risks it poses [@vogeltanz-holm_schwartz18].
+For this project, I will produce a video that tells the story of radon to the Williamsburg community.
 It will communicate what radon is, previous research at William \& Mary, and how people can learn more about it.
-The project will include the development of storytelling methods and accessibility standards that the video will strive to meet.
+This project will include the development of storytelling methods and accessibility standards that the video will follow.
 
-## Research Goal  
+# Research Goal  
 
-
-<!-- COMMENT FROM RICK:
-	Emphasize the amount of knowledge
-	I'll have to build about radioactive
-	decay, local stratigraphy, and
-	previous research to make this
-	project a success
--->
 The purpose of this video will be to communicate how radon is a potential health hazard to the Williamsburg public.
 To do so, it will establish what radon is and how it is naturally formed, as well as how it is a health risk.
 The video will then summarize previous research on Radon in the Williamsburg area, including student research projects at William \& Mary.
 The video will conclude with encouragement for viewers to learn more about radon, and to get their homes tested.
-To do all of this effectively, a literature review will be conducted to determine the best practices in video communication of science, as well as what accessibility guidelines should be followed.
+To do all of this effectively, a thorough review will be conducted of the previous research done concerning radon in the Williamsburg area, and how it fits into the broader landscape of radon literature.
+This review will include radioactive decay processes, the stratigraphy of Williamsburg, and the methods of previous researchers.
+I will also research best practices in video communication of science, as well as what accessibility guidelines should be followed.
+This will inform the scriptwriting process, and create objectives to be met by the final video.
 The video will be an approachable introduction to why radon is an important topic for everyone in Williamsburg to be aware of.
 
-## Geologic Background
+# Geologic Background
 
 Radon is a chemical element with the atomic number 86.
 It occurs naturally as a short intermediate step in uranium decay chains (Figure 1).
-It has three isotopes: ^219^Rn, ^220^Rn, and ^222^Rn.
-[@weigel78]
+It has three isotopes: ^219^Rn, ^220^Rn, and ^222^Rn [@weigel78].
 ^222^Rn is the most impactful on humans, and the isotope of radon I'll be referring to for the remainder of this project.
 ^222^Rn has a half-life of 3.82 days, meaning that after that amount of time half of a given quantity of ^222^Rn will have decayed into the next decay product.
 The products directly following ^222^Rn are solids, and also short-lived.
 Two of them, ^218^Po and ^214^Po, emit alpha particles when they decay.
 When ^222^Rn is inhaled into the lungs, this process can take place within the lungs.
 Alpha particles can damage the cells lining airways within the lungs, eventually leading to cancer.
-This is how exposure to radon increases one's risk of lung cancer.
-[@nationalresearchcounciluscommitteeonthebiologicaleffectsofionizingradiations88]
+This is how exposure to radon increases one's risk of lung cancer [@nationalresearchcounciluscommitteeonthebiologicaleffectsofionizingradiations88].
 Radon exposure is the second-highest cause of lung cancer in the United States, behind smoking tobacco.
 <!-- CITATION NEEDED -->
 
@@ -108,44 +86,39 @@ Concentrations of radon are commonly measured in becquerels per kilogram (Bq/Kg)
 Becquerels and curies are both measurements of radioactivity, i.e. they represent the frequency of radioactive decays.
 <!-- I prefer becquerels! IDK WHICH ONE TO USE -->
 
-The Environmental Protection Agency's published radon risk map shows Virginia's coastal plain as the lowest-risk region in the state, labeled as "Low Potential (less than 2pCi/L)."
-[@Virginia]
-The Virginia Department of Health has published the same map on their website [@Indoor]
+The Environmental Protection Agency's published radon risk map shows Virginia's coastal plain as the lowest-risk region in the state, labeled as "Low Potential (less than 2pCi/L)" [@Virginia].
+The Virginia Department of Health has published the same map on their website [@Indoor].
 Someone living in the Williamsburg area who reads this map would likely conclude that their home is at negligible risk of radon exposure.
 While this might be true for much of the coastal plain, research has shown there are areas of higher risk that would be colored in red on the aforementioned map.
 
-In 1978, Khandelwal and Singh published a short article in Health Physics sharing that they had discovered radioactivity in whale bone vertebra in the Chesapeake Bay area, including in the Yorktown Formation.
-[-@khandelwal_singh78]
+In 1978, -@khandelwal_singh78 published a short article in Health Physics sharing that they had discovered radioactivity in whale bone vertebra in the Chesapeake Bay area, including in the Yorktown Formation.
 <!-- This feels a little out-of-place. Maybe I could find another source about radioactivity in the Chesapeake? -->
-Research on radon at William \& Mary started around 1989 when Jennifer M. Cooper wrote a report about the Yorktown Formation as a potential source of radon in the Williamsburg area. 
+Research on radon at William \& Mary started around 1989 when Jennifer M. Cooper wrote a report about the Yorktown Formation as a potential source of radon in the Williamsburg area [@cooper89].
 <!-- She discovered a house had 30pCi/L, and even more underneath! -->
 She tested a number of different locations in York River State Park, correlating the Yorktown formation with radon emission using her own data.
 <!--
 "In order for radon gas to be emitted from the ground, a fairly high level of soil permeability must exist (1)"
 Lasch, David K, 1988, "On Radon": Virginia Minerals, vol.34, no.1 published by Division of Mineral Resources.
 -->
-[@cooper89]
 
 The second student at William \& Mary to investigate radon was Tracy Whitesell.
 Her project involved testing different locations for radon, and she compared different formations by makeup and average radon concentration.
 Her results clearly show that the Yorktown has higher radon concentrations than nearby formations.
 Whitesell was one of the first to so thoroughly illustrate the radon landscape in the Williamsburg area, and her work was remarkable in confirming the suspicions of previous researchers.
-In the final sentence of her thesis, she recommended that "houses built within or on the Yorktown should be tested for radon."
-[@whitesell90]
+In the final sentence of her thesis, she recommended that "houses built within or on the Yorktown should be tested for radon" [@whitesell90].
 
 <!--
 Borne (94?) -- summarized earlier work, compared Yorktown Formation to different formation -->
 
 In 2020, Dorian Miller created [a "risk map" of radon near William \& Mary's campus](https://arcg.is/zHjSG).
-This map was created by mapping elevation data at certain thresholds, because the Yorktown Formation is a horizontal layer that becomes closer to the surface as the elevation decreases.
-[@miller_etal20]
+This map was created by mapping elevation data at certain thresholds, because the Yorktown Formation is a horizontal layer that becomes closer to the surface as the elevation decreases [@miller21].
 
 ![Radon risk assessment map of Williamsburg [@miller_etal20]]("Figures/radon risk map.png")
 
-In 2021, Zoey Mondshine worked to confirm the risk map, by testing individual homes and comparing their relative test results to the regions on Dorian Miller's map.
-Among other observations, she identified homes in the "Low Radon Risk" region with radon levels above the EPA's recommended limit of 4pC/L.
+In 2021, Zoey Mondshine validated the risk map, by testing individual homes and comparing their relative test results to the regions on the risk map.
+Among other observations, she identified a home in the "Low Radon Risk" region with radon levels above the EPA's recommended limit of 4pCi/L [@mondshine21].
 
-## Materials and Methods
+# Materials and Methods
 
 This video will be produced in three major stages.
 The first will be a literature review investigating what makes videos for science communication effective, and how to make them as accessible as possible using captions and colors friendly to the color blind.
@@ -162,26 +135,28 @@ This will include filming any interviews or other footage that I might need, and
 I will review the video with the same stakeholders before finalizing it.
 This will help ensure it represents their work as well as possible, communicates the topic in a way they find effective, and gives them an opportunity to review footage of themselves before the video is released.
  
-## References
+# References
 
 <div id="refs"></div>
 
-##  Budget
+#  Budget
 
 I do not anticipate any costs for this project.
 If I do need to meet with anyone outside of Williamsburg, it would probably be more appropriate to do so virtually anyways because of the ongoing COVID-19 pandemic.
 
-##  Timeline
+#  Timeline
 
-### Summer 2021
+## Summer 2021
 
-By the start of the 2021-2022 school year, I will have completed the literature review drafted the script for the video, and reviewed the script with various stakeholders for their feedback.
+By the start of the 2021-2022 school year, I will have completed the literature review, drafted the script for the video, and reviewed the script with various stakeholders for their feedback.
+These three elements will be broken into three month-long chunks, in that order, from June through August.
+Throughout this time I will be meeting with my advisors to review my progress and get feedback.
 
-### Fall 2021
+## Fall 2021
 
 By 2022, I will have filmed all interviews, produced a draft video, and reviewed it with various stakeholders.
+These interviews will be scheduled as the semester starts, and any other footage will be collected as needed according to the script.
 
-### Spring 2022
+## Spring 2022 
 
 By the W\&M Geology Department's Senior Research Saturday, I will have adjusted the video based on feedback I received in the fall, and added any remaining captions.
-
