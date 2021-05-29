@@ -21,7 +21,7 @@ and then you'll have to install the R package RMarkdown.
 Within R, that's as easy as:
 
 ```
-install.packages('RMarkdown')
+install.packages('rmarkdown')
 ```
 
 Then, all you need to do is run the following command in this directory:
