@@ -1,4 +1,4 @@
-# Jacob's Senior Thesis
+# Producing a Video to Communicate Radon Health Risks in Williamsburg
 
 This repository is where I'm writing my senior thesis! Which is all about communicating about radon in Williamsburg.
 
