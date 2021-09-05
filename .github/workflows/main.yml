@@ -25,6 +25,8 @@ jobs:
           path: _bookdown_files
           key: bookdown-${{ hashFiles('**/*Rmd') }}
           restore-keys: bookdown-
+      - name: Install XeLaTeX
+        run: sudo apt-get install texlive-xetex
       - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
       - name: Deploy to GitHub Pages
