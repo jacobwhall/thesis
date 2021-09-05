@@ -1,0 +1,36 @@
+# From https://orchid00.github.io/actions_sandbox/websites-using-pkgdown-bookdown-and-blogdown.html#deploy-bookdown
+on:
+  push:
+     branches:
+       - main
+
+name: renderbook
+
+jobs:
+  bookdown:
+    name: Render & Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v1
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v1
+      - name: Setup pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+      - name: Install rmarkdown
+        run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
+      - name: Cache bookdown results
+        uses: actions/cache@v2
+        with:
+          path: _bookdown_files
+          key: bookdown-${{ hashFiles('**/*Rmd') }}
+          restore-keys: bookdown-
+      - name: Render Book
+        run: Rscript -e 'bookdown::render_book("index.Rmd")'
+      - name: Deploy to GitHub Pages
+        uses: Cecilapp/GitHub-Pages-deploy@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          build_dir: _book/ # "_site/" by default
+          email: ${{ secrets.EMAIL }}  # must be a verified email
