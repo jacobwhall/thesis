@@ -28,11 +28,11 @@ jobs:
       - name: Install XeLaTeX
         run: sudo apt-get install texlive-xetex
       - name: Render Book
-        run: Rscript -e 'bookdown::render_book("index.Rmd")'
+        run: Rscript -e 'bookdown::render_book(".", "bookdown::gitbook")'
       - name: Deploy to GitHub Pages
         uses: Cecilapp/GitHub-Pages-deploy@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          build_dir: _book/ # "_site/" by default
-          email: ${{ secrets.EMAIL }}  # must be a verified email
+          build_dir: _book/
+          email: email@jacobhall.net
