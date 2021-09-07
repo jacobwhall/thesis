@@ -1,10 +1,11 @@
 ---
 title: "Producing a Video to Communicate Radon Health Risks in Williamsburg"
+site: bookdown::bookdown_site
+github-repo: jacobwhall/thesis
 output:
   pdf_document:
     latex_engine: xelatex
-  html_document:
-    df_print: paged
+  bookdown::gitbook: default
 breaks: true
 header-includes:
   - \usepackage{setspace}
