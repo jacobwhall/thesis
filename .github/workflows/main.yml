@@ -28,7 +28,9 @@ jobs:
       - name: Install XeLaTeX
         run: sudo apt-get install texlive-xetex
       - name: Render Book
-        run: Rscript -e 'bookdown::render_book(".", "bookdown::gitbook")'
+        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
+      - name: Render PDF
+        run: Rscript -e 'rmarkdown::render("index.Rmd", output_file = "_book/_main.pdf")'
       - name: Deploy to GitHub Pages
         uses: Cecilapp/GitHub-Pages-deploy@v3
         env:
