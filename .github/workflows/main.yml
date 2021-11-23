@@ -20,7 +20,9 @@ jobs:
       - name: Create _site directory
         run: mkdir _site
       - name: Render HTML
-        run: pandoc --citeproc -o _site/index.html thesis.md
+        run: pandoc --citeproc --toc -o _site/index.html thesis.md
+      - name: Copy Figures to Static Site
+        run: cp Figures _site/
       - name: Deploy to GitHub Pages
         uses: Cecilapp/GitHub-Pages-deploy@v3
         env:

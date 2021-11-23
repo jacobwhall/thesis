@@ -8,7 +8,8 @@ I'll update this readme in the future with an overview of the project, but for n
 
 ## Reading the thesis
 
-_coming soon_
+You can read it online [here](https://jacobwhall.github.io/thesis/).
+Instructions for rendering a PDF version are below.
 
 ## Rendering the thesis
 
