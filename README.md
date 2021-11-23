@@ -8,30 +8,24 @@ I'll update this readme in the future with an overview of the project, but for n
 
 ## Reading the thesis
 
-The thesis is available to read online [here](https://jacobwhall.github.io/thesis/).
-If you'd like to render a PDF version yourself, see the instructions below.
+_coming soon_
 
 ## Rendering the thesis
 
-To render the thesis, you'll need to install R.
-Instructions for doing so are [in the R project FAQ](https://cran.r-project.org/doc/FAQ/R-FAQ.html#How-can-R-be-installed_003f), but if you use Fedora like me the command is
+To render the thesis, you'll need to install pandoc.
+Instructions for doing so are [on the pandoc website](https://pandoc.org/installing.html), but if you use Fedora like me the command is
 
 ```
-sudo dnf install R-core
+sudo dnf install pandoc
 ```
+
+(though, the pandoc package is out of data for Fedora, so I've been installing the [latest release from github](https://github.com/jgm/pandoc/releases))
 
 ### Render it as a PDF document
 
-You'll have to install the R package RMarkdown.
-Within R, the command is:
-
-```
-install.packages('rmarkdown')
-```
-
 Then, run the following command in this directory:
 ```
-Rscript -e "rmarkdown::render('index.Rmd')"
+./render.sh
 ```
 
 ### Render it as an static HTML site

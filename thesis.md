@@ -1,26 +1,17 @@
 ---
-title: "Producing a Video to Communicate Radon Health Risks in Williamsburg"
-site: bookdown::bookdown_site
+geometry: margin=1in
+fontsize: 12pt
+mainfont: EBGaramond-0.016/ttf/EBGaramond12-Regular.ttf
 github-repo: jacobwhall/thesis
-output:
-  pdf_document:
-    latex_engine: xelatex
-  bookdown::gitbook: default
-breaks: true
-header-includes:
-  - \usepackage{setspace}
 urlcolor: blue
 bibliography: references.json
 csl: the-geological-society-of-america.csl
-nocite: |
-  @khandelwal_singh78
+header-includes:
+  - \usepackage{setspace}
 ---
-<!--
-TODO:
-	EDIT TITLE?
--->
 
 \begin{flushleft}
+\textbf{Introductory Section and Methods}\\
 Jacob Hall\\
 Intro to Geologic Research\\
 Professor Rowan Lockwood\\
@@ -31,7 +22,7 @@ Professor Rowan Lockwood\\
 # Introduction
 
 Radon gas is a common hazard in residential basements, where radon seeping out the ground can enter into houses and eventually cause lung cancer.
-The William \& Mary Geology Department has been investigating the presence of radon in the Williamsburg area for years.
+The William \& Mary Geology Department has been investigating the presence of radon in the Williamsburg area for decades.
 Since the 80s, Rick Berquist has been conducting and encouraging research projects that build this knowledge.
 These efforts have culminated in the development and validation of a radon risk map of the Williamsburg area [@miller21; @mondshine21].
 Online videos are an increasingly common medium for information and entertainment consumption, and have potential for effective science communication [@finkler_leon19].
@@ -40,16 +31,15 @@ One of the ways to make science communication engaging is to tell a story.
 Storytelling allows people to connect to a concept, and informs their decisions [@joubert_etal19].
 <!-- This citation is fantastic and I should look more into its references -->
 There is a general lack of understanding in the United States of radon and the health risks it poses [@vogeltanz-holm_schwartz18].
-For this project, I will produce a video that tells the story of radon to the Williamsburg community.
-It will communicate what radon is, previous research at William \& Mary, and how people can learn more about it.
-This project will include the development of storytelling methods and accessibility standards that the video will follow.
+For this project, I am producing a video that tells the story of radon to residents in the Williamsburg area.
+To be published online alongside the risk map, my video will communicate the significance of radon, and help its audience navigate resources available for testing and mitigation.
 
 # Research Goal  
 
-The purpose of this video will be to communicate how radon is a potential health hazard to the Williamsburg public.
+The purpose of this video will be to communicate how radon is a potential health hazard to residents in the Williamsburg area.
 To do so, it will establish what radon is and how it is naturally formed, as well as how it is a health risk.
 The video will then summarize previous research on Radon in the Williamsburg area, including student research projects at William \& Mary.
-The video will conclude with encouragement for viewers to learn more about radon, and to get their homes tested.
+The video will conclude with a call to action for viewers to learn more about radon, get their homes tested, and potentially mitigate their homes for radon.
 To do all of this effectively, a thorough review will be conducted of the previous research done concerning radon in the Williamsburg area, and how it fits into the broader landscape of radon literature.
 This review will include radioactive decay processes, the stratigraphy of Williamsburg, and the methods of previous researchers.
 I will also research best practices in video communication of science, as well as what accessibility guidelines should be followed.
@@ -57,6 +47,8 @@ This will inform the scriptwriting process, and create objectives to be met by t
 The video will be an approachable introduction to why radon is an important topic for everyone in Williamsburg to be aware of.
 
 # Geologic Background
+
+## Introduction to Radon
 
 Radon is a chemical element with the atomic number 86.
 It occurs naturally as a short intermediate step in uranium decay chains (Figure 1).
@@ -71,9 +63,9 @@ This is how exposure to radon increases one's risk of lung cancer [@nationalrese
 Radon exposure is the second-highest cause of lung cancer in the United States, behind smoking tobacco.
 <!-- CITATION NEEDED -->
 
-![Decay chain of uranium [@user:tosaka14]]("Figures/Radioactive decay chains of uranium.svg.png"){height=60%}
+![Decay chain of uranium [@user:tosaka14]](./Figures/Radioactive-decay-chains-of-uranium.svg.png){height=60%}
 
-![Yearly radon-related deaths compared to other common causes in the US [@usepa14a]]("Figures/new EPA radon graph.png"){width=60%}
+![Yearly radon-related deaths compared to other common causes in the US [@usepa14a]](./Figures/new-EPA-radon-graph.png){width=60%}
 
 <!--
 >> Cooper's paper had the following quote and citation:
@@ -88,6 +80,8 @@ Radon exposure is the second-highest cause of lung cancer in the United States, 
 Concentrations of radon are commonly measured in becquerels per kilogram (Bq/Kg), or picocuries per liter (pCi/L).
 Becquerels and curies are both measurements of radioactivity, i.e. they represent the frequency of radioactive decays.
 <!-- I prefer becquerels! IDK WHICH ONE TO USE -->
+
+## Previous Work in Williamsburg Area
 
 The Environmental Protection Agency's published radon risk map shows Virginia's coastal plain as the lowest-risk region in the state, labeled as "Low Potential (less than 2pCi/L)" [@Virginia].
 The Virginia Department of Health has published the same map on their website [@Indoor].
@@ -117,82 +111,59 @@ Borne (94?) -- summarized earlier work, compared Yorktown Formation to different
 In 2020, Dorian Miller created [a "risk map" of radon near William \& Mary's campus](https://arcg.is/zHjSG).
 This map was created by mapping elevation data at certain thresholds, because the Yorktown Formation is a horizontal layer that becomes closer to the surface as the elevation decreases [@miller21].
 
-![Radon risk assessment map of Williamsburg [@miller_etal20]]("Figures/radon risk map.png")
+![Radon risk assessment map of Williamsburg [@miller_etal20]](./Figures/radon-risk-map.png)
 
 In 2021, Zoey Mondshine validated the risk map, by testing individual homes and comparing their relative test results to the regions on the risk map.
 Among other observations, she identified a home in the "Low Radon Risk" region with radon levels above the EPA's recommended limit of 4pCi/L [@mondshine21].
 
-# Materials and Methods
+!["Layer Cake" graphic, adapted from Rick Berquist](./Figures/video-graphics/layer-cake-cropped-for-paper.png)
 
-This video will be produced in three major stages.
-The first will be a literature review investigating what makes videos for science communication effective, and how to make them as accessible as possible using captions and colors friendly to the color blind.
-<!-- Baylee also suggested image descriptions and screenreader-friendly fonts -->
-I will also continue to read about and communicate with the people who have conducted research on radon in this area.
+# Methods
 
-The second stage of this project will be script development.
-I will write a script based on the research goals described above and the guidelines established in my literature review.
-This stage will include meetings with stakeholders including W\&M faculty and students, and community members who have previously volunteered to participate in radon-related research.
-These meetings will help me hone the accuracy of the message and power of the story that I will communicate.
+## Scriptwriting
 
-The third stage of this project will be the development of the video.
-This will include filming any interviews or other footage that I might need, and editing them together to realize the script.
-I will review the video with the same stakeholders before finalizing it.
-This will help ensure it represents their work as well as possible, communicates the topic in a way they find effective, and gives them an opportunity to review footage of themselves before the video is released.
+With the broader goals of this project defined, writing the script brought a clearer structure to the production of this video.
+The content needed to not only convey important points about radon, but also have a short narrative arc.
+After workshopping the structure with Professor Ibes, we landed on the following sections:
+
+1. Lede
+1. Health Concern
+1. Background & Research
+1. Who Needs to Know
+1. What Can You Do
+1. Kicker.
+
+In our meetings, my advisors and I decided that the video should remain relatively short, in order to maintain our audience's attention and focus on the most important points.
+For each of the sections, I slowly developed the content for each while working with Professor Ibes to boil the content down to have concise wording.
+I also met periodically with Heather, Rick and Jim to review the script with regard to the overall goals of the project, and scientific accuracy of the content.
+Rick helped me narrow the scope of my video to the geologic concepts most relevant to this area, and showed me radon concentration data collected in Williamsburg homes.
+By the end of the summer, the script had reached a final draft, and I could record the first draft of the voiceover.
+
+## Beginning to Draw Graphics
+
+Using a drawing tablet borrowed from Reeder Media Center, I began drawing the concepts touched on in the script using a program called Krita.
+As I developed them, I emailed versions to my advisors, and met with Professor Ibes to brainstorm how to convey they most important concepts.
+It became critical to link each graphic with a section of the script, in order to hone each to complement the other.
+I annotated the script with markers denoting which graphic would be shown where, and what would be visually described with the audio.
+
+## Video Production
+
+By mid-October, I had begun to connect a series of graphics with the content of the script.
+Consulting with Drea George, a multimedia specialist at Reeder Media Center, I learned how to assemble my graphics onto a timeline in Adobe After Effects.
+Using keyframe and masking techniques, I could animate each graphic, having it appear at the times I need and controlling how it would layer with other assets.
+Drea also showed me an animation technique called boiling, which involves multiple similar frames of the same drawing played in a loop, which brings the drawing to life and gives it more character than a static shape.
+
+## Iteration
+
+One of the most important processes I had to see through as production continued, was the iterative gathering of feedback.
+There were few times when each piece of the project were developed to the same degree: sometimes the voiceover outdated the script, or a section of the video had been edited more thoroughly than another.
+As I improved upon each asset, and better placed it on the video editing timeline, I periodically exported the video as a draft, and uploaded it to a video collaboration and editing platform called Frame.io.
+Using an online interface, my advisors could then view each of my drafts, and comment at any timecode with advice on how to improve it.
+
+![Jim Kaste giving feedback on an early draft of my video using Frame.io](./Figures/frame-io-screenshot.png)
+
+With each round of feedback, I was able to prioritize aspects of the video that did not yet realize our shared vision, and communicate my progress clearly to my advisors.
+
  
 # References
 
-<div id="refs"></div>
-
-#  Budget
-
-I do not anticipate any costs for this project.
-If I do need to meet with anyone outside of Williamsburg, it would probably be more appropriate to do so virtually anyways because of the ongoing COVID-19 pandemic.
-
-#  Timeline
-
-## Summer 2021
-
-During \textbf{June}, I will reach out to all potential stakeholders, including previous research participants, representatives from the City of Williamsburg, and professors who study science communication.
-I will spend the first week compiling a list of stakeholders I should contact, and reviewing it with my advisors.
-Over the next couple of weeks, I will write emails to each of the identified stakeholders.
-I will describe the ways they can help with this project, including reviewing the script, reviewing the finished video, and helping to share it once it is completed.
-During this time I will continue to review literature on radon, with the goal of reading every previous paper about radon from William \& Mary.
-
-During \textbf{July}, I will write the script.
-Doing so will raise questions about geology, filmmaking, and communication that I will research.
-The first week I'll create an outline to review with my advisors Heather, Rick, and Jim.
-Then I will flesh out the script into a cohesive story.
-I intend to make the script into a complete plan for the video, understanding that adjustments may be made to include interview footage and further research down the road.
-
-I will review the script with stakeholders in \textbf{August}.
-Everyone who agreed to participate in this project in June will receive a copy of the script, with the invitation to submit feedback.
-During these conversations, I will schedule some in-person interviews that will be recorded and included in the video.
-By the start of the 2021-2022 school year, I will have completed this review process, and will be ready to begin filming.
-
-## Fall 2021
-
-I will have filmed all interviews by the end of \textbf{September}.
-These will be in-person meetups or recorded video calls with stakeholders who agree to discuss their work on camera.
-While I will have scripted questions I bring to these interviews, I will allow each interviewee to share more about themselves and their work.
-The equipment I use to film these videos, including cameras, lighting, tripods, and media storage devices, will be borrowed from Reeder Media Center.
-It will be important to keep files from each of these interviews organized.
-The video files will be kept in labelled folders, and uploaded to a Google Drive folder as backup.
-
-In \textbf{October} I will produce a draft video, collecting any final footage and assembling them into a timeline.
-Most of this will happen at the Reeder Media Center, where there is hardware and software available to students for video editing.
-
-During \textbf{November}, I will send the draft video to the appropriate stakeholders and have them provide feedback.
-I will create a Google Form for them to fill out, with questions about what the liked, and what they think could be improved.
-This will also be an opportunity for interviewees to preview their own contributions, and agree to remaining in the finished video.
-
-In \textbf{December} I'll meet with my advisors again to go over my progress, and we'll make it clear what still needs to be accomplished.
-This meeting will include a review of the feedback I received for my draft film, and collective decision-making about what changes are most important to prioritize in the Spring.
-
-## Spring 2022 
-
-In January and February, I will implement whatever changes need to be made to the video based on the feedback from the stakeholders and my advisors.
-I will also edit the script to reflect what the video will actually be.
-
-In March and April, I will put any finishing touches on the video, and create captions.
-
-By the W\&M Geology Department's Senior Research Saturday, the video will be completed, and sent to all stakeholders along with the final script and my literature review.
