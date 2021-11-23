@@ -13,28 +13,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v1
-      - name: Setup R
-        uses: r-lib/actions/setup-r@v1
-      - name: Setup pandoc
-        uses: r-lib/actions/setup-pandoc@v1
-      - name: Install rmarkdown
-        run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
-      - name: Cache bookdown results
-        uses: actions/cache@v2
-        with:
-          path: _bookdown_files
-          key: bookdown-${{ hashFiles('**/*Rmd') }}
-          restore-keys: bookdown-
-      - name: Install XeLaTeX
-        run: sudo apt-get install texlive-xetex
-      - name: Render Book
-        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
-      - name: Render PDF
-        run: Rscript -e 'rmarkdown::render("index.Rmd", output_file = "_book/_main.pdf")'
+      - name: Download latest Pandoc
+        run: curl -sL https://api.github.com/repos/jgm/pandoc/releases/latest | jq -r '.assets[].browser_download_url' | grep "amd64.deb$" | wget -qi -
+      - name: Install Pandoc
+        run: sudo dpkg -i *amd64.deb
+      - name: Create _site directory
+        run: mkdir _site
+      - name: Render HTML
+        run: pandoc --citeproc -o _site/index.html thesis.md
       - name: Deploy to GitHub Pages
         uses: Cecilapp/GitHub-Pages-deploy@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          build_dir: _book/
           email: email@jacobhall.net
