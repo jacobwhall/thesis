@@ -22,7 +22,7 @@ jobs:
       - name: Render HTML
         run: pandoc --citeproc --toc -s -o _site/index.html thesis.md
       - name: Copy Figures to Static Site
-        run: cp Figures _site/
+        run: cp -r Figures _site/
       - name: Deploy to GitHub Pages
         uses: Cecilapp/GitHub-Pages-deploy@v3
         env:
